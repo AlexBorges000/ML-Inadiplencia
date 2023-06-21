@@ -1,0 +1,4 @@
+duracao;historico_credito;proposito;valor;tempo_parcelamento;estado_civil;fiador_terceiros;idade;outros_financiamentos;habitacao;emprestimo_existente;profissao;dependentes;socio_empresa;estrangeiro
+48;existentes/pagos;reforma;5851;2;feminino div/dep/cas;nao;22;nenhum;propria;1;qualificado;1;0;0
+24;sem creditos/todos pagos;veiculo usado;25000;4;masculino solteiro;sim;18;banco;de graca;1;qualificado;2;0;0
+5;existentes/pagos;reforma;2000;1;masculino cas/viu;sim;34;nenhum;propria;2;"altamente qualificado/empresario	";1;1;0
