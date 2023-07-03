@@ -1,0 +1,1724 @@
+0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18
+48;existentes/pagos;reforma;5951;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;22;nenhum;proria;1;qualificado;1;0;0;0
+12;Critico-outros creditos;educacao;2096;"<100
+";4<=X<7;2;masculino solteiro;nao;3.0;49;nenhum;proria;1;nao qualificado;2;0;0;1
+42;existentes/pagos;moveis;7882;"<100
+";4<=X<7;2;masculino solteiro;sim;4.0;45;nenhum;de graca;1;qualificado;2;0;0;1
+24;Atrasos anteriores;veiculo novo;4870;"<100
+";1<=X<4;3;masculino solteiro;nao;4.0;53;nenhum;de graca;2;qualificado;2;0;0;0
+36;existentes/pagos;educacao;9055;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;4.0;35;nenhum;de graca;1;nao qualificado;2;1;0;1
+24;existentes/pagos;moveis;2835;500<=X<1000;>=7;3;masculino solteiro;nao;4.0;53;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;3059;>=1000;4<=X<7;2;maculino div/dep;nao;4.0;61;nenhum;proria;1;nao qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;1295;"<100
+";<1;3;feminino div/dep/cas;nao;1.0;25;nenhum;alugada;1;qualificado;1;0;0;0
+12;existentes/pagos;reforma;1567;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;1.0;22;nenhum;proria;1;qualificado;1;1;0;1
+24;Critico-outros creditos;veiculo novo;1199;"<100
+";>=7;4;masculino solteiro;nao;4.0;60;nenhum;proria;2;nao qualificado;1;0;0;0
+24;existentes/pagos;reforma;1282;100<=X<500;1<=X<4;4;feminino div/dep/cas;nao;2.0;32;nenhum;proria;1;nao qualificado;1;0;0;0
+24;Critico-outros creditos;reforma;2424;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;53;nenhum;proria;2;qualificado;1;0;0;1
+30;sem creditos/todos pagos;abrir negocio;8072;"Desconhecido
+";<1;2;masculino solteiro;nao;3.0;25;banco;proria;3;qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;12579;"<100
+";>=7;4;feminino div/dep/cas;nao;2.0;44;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+24;existentes/pagos;reforma;3430;500<=X<1000;>=7;3;masculino solteiro;nao;2.0;31;nenhum;proria;1;qualificado;2;1;0;1
+9;Critico-outros creditos;veiculo novo;2134;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;48;nenhum;proria;3;qualificado;1;1;0;1
+6;existentes/pagos;reforma;2647;500<=X<1000;1<=X<4;2;masculino solteiro;nao;3.0;44;nenhum;alugada;1;qualificado;2;0;0;1
+10;Critico-outros creditos;veiculo novo;2241;"<100
+";<1;1;masculino solteiro;nao;3.0;48;nenhum;alugada;2;nao qualificado;2;0;1;1
+12;Critico-outros creditos;veiculo usado;1804;100<=X<500;<1;3;masculino solteiro;nao;4.0;44;nenhum;proria;1;qualificado;1;0;0;1
+10;Critico-outros creditos;moveis;2069;"Desconhecido
+";1<=X<4;2;masculino cas/viu;nao;1.0;26;nenhum;proria;2;qualificado;1;0;1;1
+6;existentes/pagos;moveis;1374;"<100
+";1<=X<4;1;masculino solteiro;nao;2.0;36;banco;proria;1;nao qualificado;1;1;0;1
+6;sem creditos/todos pagos;reforma;426;"<100
+";>=7;4;masculino cas/viu;nao;4.0;39;nenhum;proria;1;nao qualificado;1;0;0;1
+12;todos pagos;reforma;409;>=1000;1<=X<4;3;feminino div/dep/cas;nao;3.0;42;nenhum;alugada;2;qualificado;1;0;0;1
+7;existentes/pagos;reforma;2415;"<100
+";1<=X<4;3;masculino solteiro;sim;2.0;34;nenhum;proria;1;qualificado;1;0;0;1
+60;Atrasos anteriores;abrir negocio;6836;"<100
+";>=7;3;masculino solteiro;nao;4.0;63;nenhum;proria;2;qualificado;1;1;0;0
+18;existentes/pagos;abrir negocio;1913;>=1000;<1;3;masculino cas/viu;nao;3.0;36;banco;proria;1;qualificado;1;1;0;1
+24;existentes/pagos;moveis;4020;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;27;loja;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;veiculo novo;5866;100<=X<500;1<=X<4;2;masculino solteiro;nao;2.0;30;nenhum;proria;2;qualificado;1;1;0;1
+12;Critico-outros creditos;abrir negocio;1264;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;57;nenhum;alugada;1;nao qualificado;1;0;0;1
+45;Critico-outros creditos;reforma;4746;"<100
+";<1;4;masculino solteiro;nao;2.0;25;nenhum;proria;2;nao qualificado;1;0;0;0
+48;Critico-outros creditos;educacao;6110;"<100
+";1<=X<4;1;masculino solteiro;nao;3.0;31;banco;de graca;1;qualificado;1;1;0;1
+18;existentes/pagos;reforma;2100;"<100
+";1<=X<4;4;masculino solteiro;co requerente;2.0;37;loja;proria;1;qualificado;1;0;0;0
+10;existentes/pagos;quitar divida;1225;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;37;nenhum;proria;1;qualificado;1;1;0;1
+9;existentes/pagos;reforma;458;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;24;nenhum;proria;1;qualificado;1;0;0;1
+30;existentes/pagos;reforma;2333;500<=X<1000;>=7;4;masculino solteiro;nao;2.0;30;banco;proria;1;altamente qualificado/empresario;1;0;0;1
+12;existentes/pagos;reforma;1158;500<=X<1000;1<=X<4;3;maculino div/dep;nao;1.0;26;nenhum;proria;1;qualificado;1;1;0;1
+18;Atrasos anteriores;reforma casa;6204;"<100
+";1<=X<4;2;masculino solteiro;nao;4.0;44;nenhum;proria;1;nao qualificado;2;1;0;1
+30;Critico-outros creditos;veiculo usado;6187;100<=X<500;4<=X<7;1;masculino cas/viu;nao;4.0;24;nenhum;alugada;2;qualificado;1;0;0;1
+11;Critico-outros creditos;veiculo novo;1393;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;35;nenhum;proria;2;altamente qualificado/empresario;1;0;0;1
+36;existentes/pagos;reforma;2299;500<=X<1000;>=7;4;masculino solteiro;nao;4.0;39;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;veiculo usado;1352;500<=X<1000;Desempregado;1;feminino div/dep/cas;nao;2.0;23;nenhum;alugada;1;desempregado;1;1;0;1
+11;Critico-outros creditos;veiculo novo;7228;"<100
+";1<=X<4;1;masculino solteiro;nao;4.0;39;nenhum;proria;2;nao qualificado;1;0;0;1
+12;existentes/pagos;reforma;2073;100<=X<500;1<=X<4;4;feminino div/dep/cas;co requerente;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+24;Atrasos anteriores;moveis;2333;"Desconhecido
+";<1;4;masculino solteiro;nao;2.0;29;banco;proria;1;nao qualificado;1;0;0;1
+27;Atrasos anteriores;veiculo usado;5965;"<100
+";>=7;1;masculino solteiro;nao;2.0;30;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;reforma;1262;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;25;nenhum;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;veiculo usado;3378;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;1.0;31;nenhum;proria;1;qualificado;1;1;0;1
+36;Atrasos anteriores;veiculo novo;2225;"<100
+";>=7;4;masculino solteiro;nao;4.0;57;banco;de graca;2;qualificado;1;1;0;0
+12;existentes/pagos;reforma;6468;"Desconhecido
+";Desempregado;2;masculino solteiro;nao;1.0;52;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+36;Critico-outros creditos;reforma;9566;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;31;loja;proria;2;qualificado;1;0;0;1
+18;existentes/pagos;veiculo novo;1961;"<100
+";>=7;3;feminino div/dep/cas;nao;2.0;23;nenhum;proria;1;altamente qualificado/empresario;1;0;0;1
+36;Critico-outros creditos;moveis;6229;"<100
+";<1;4;feminino div/dep/cas;co requerente;4.0;23;nenhum;alugada;2;nao qualificado;1;1;0;0
+9;existentes/pagos;abrir negocio;1391;"<100
+";1<=X<4;2;masculino cas/viu;nao;1.0;27;banco;proria;1;qualificado;1;1;0;1
+15;Critico-outros creditos;reforma;1537;"Desconhecido
+";>=7;4;masculino solteiro;sim;4.0;50;nenhum;proria;2;qualificado;1;1;0;1
+36;sem creditos/todos pagos;abrir negocio;1953;"<100
+";>=7;4;masculino solteiro;nao;4.0;61;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+48;sem creditos/todos pagos;abrir negocio;14421;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;25;nenhum;proria;1;qualificado;1;1;0;0
+24;existentes/pagos;reforma;3181;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;26;nenhum;proria;1;qualificado;1;1;0;1
+27;existentes/pagos;reforma casa;5190;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;48;nenhum;proria;4;qualificado;2;1;0;1
+12;existentes/pagos;reforma;2171;"<100
+";<1;2;feminino div/dep/cas;nao;2.0;29;banco;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;1007;>=1000;1<=X<4;4;masculino cas/viu;nao;1.0;22;nenhum;proria;1;qualificado;1;0;0;1
+36;existentes/pagos;reforma;2394;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;25;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;moveis;1474;"<100
+";<1;4;feminino div/dep/cas;nao;;33;banco;proria;1;altamente qualificado/empresario;1;1;0;1
+36;existentes/pagos;veiculo usado;8133;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;30;banco;proria;1;qualificado;1;0;0;1
+7;Critico-outros creditos;reforma;730;"Desconhecido
+";>=7;4;masculino solteiro;nao;2.0;46;nenhum;alugada;2;nao qualificado;1;1;0;1
+8;Critico-outros creditos;outros;1164;"<100
+";>=7;3;masculino solteiro;nao;4.0;51;banco;de graca;2;altamente qualificado/empresario;2;1;0;1
+42;Critico-outros creditos;abrir negocio;5954;"<100
+";4<=X<7;2;feminino div/dep/cas;nao;1.0;41;banco;proria;2;nao qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo usado;1526;"<100
+";>=7;4;masculino solteiro;nao;4.0;66;nenhum;de graca;2;altamente qualificado/empresario;1;0;0;1
+42;existentes/pagos;reforma;3965;"<100
+";<1;4;masculino solteiro;nao;3.0;34;nenhum;proria;1;qualificado;1;0;0;0
+54;sem creditos/todos pagos;veiculo usado;9436;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;2.0;39;nenhum;proria;1;nao qualificado;2;0;0;1
+30;existentes/pagos;moveis;3832;"<100
+";<1;2;masculino cas/viu;nao;1.0;22;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;5943;"Desconhecido
+";<1;1;feminino div/dep/cas;nao;1.0;44;nenhum;proria;2;qualificado;1;1;0;0
+15;existentes/pagos;reforma;1213;500<=X<1000;>=7;4;masculino solteiro;nao;3.0;47;loja;proria;1;qualificado;1;1;0;1
+18;existentes/pagos;abrir negocio;1568;100<=X<500;1<=X<4;3;feminino div/dep/cas;nao;4.0;24;nenhum;alugada;1;nao qualificado;1;0;0;1
+24;existentes/pagos;outros;1755;"<100
+";>=7;4;feminino div/dep/cas;sim;4.0;58;nenhum;proria;1;nao qualificado;1;1;0;1
+10;existentes/pagos;reforma;2315;"<100
+";>=7;3;masculino solteiro;nao;4.0;52;nenhum;proria;1;nao qualificado;1;0;0;1
+12;Critico-outros creditos;abrir negocio;1412;"<100
+";1<=X<4;4;feminino div/dep/cas;sim;2.0;29;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+18;Critico-outros creditos;moveis;1295;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;27;nenhum;proria;2;qualificado;1;0;0;1
+36;existentes/pagos;educacao;12612;100<=X<500;1<=X<4;1;masculino solteiro;nao;4.0;47;nenhum;de graca;1;qualificado;2;1;0;0
+18;existentes/pagos;veiculo novo;2249;100<=X<500;4<=X<7;4;masculino solteiro;nao;3.0;30;nenhum;proria;1;altamente qualificado/empresario;2;1;0;1
+12;sem creditos/todos pagos;reforma casa;1108;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;28;nenhum;proria;2;qualificado;1;0;0;0
+12;Critico-outros creditos;reforma;618;"<100
+";>=7;4;masculino solteiro;nao;4.0;56;nenhum;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo usado;1409;"<100
+";>=7;4;masculino solteiro;nao;3.0;54;nenhum;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;reforma;797;"Desconhecido
+";>=7;4;feminino div/dep/cas;nao;3.0;33;banco;proria;1;nao qualificado;2;0;0;0
+24;Critico-outros creditos;moveis;3617;"Desconhecido
+";>=7;4;masculino solteiro;co requerente;4.0;20;nenhum;alugada;2;qualificado;1;0;0;1
+54;sem creditos/todos pagos;abrir negocio;15945;"<100
+";<1;3;masculino solteiro;nao;4.0;58;nenhum;alugada;1;qualificado;1;1;0;0
+12;Critico-outros creditos;educacao;2012;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;2.0;61;nenhum;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;abrir negocio;2622;100<=X<500;1<=X<4;4;masculino solteiro;nao;4.0;34;nenhum;proria;1;qualificado;1;0;0;1
+36;Critico-outros creditos;reforma;2337;"<100
+";>=7;4;masculino solteiro;nao;4.0;36;nenhum;proria;1;qualificado;1;0;0;1
+20;Atrasos anteriores;veiculo usado;7057;"Desconhecido
+";4<=X<7;3;masculino solteiro;nao;4.0;36;banco;alugada;2;altamente qualificado/empresario;2;1;0;1
+24;existentes/pagos;veiculo novo;1469;100<=X<500;>=7;4;masculino cas/viu;nao;4.0;41;nenhum;alugada;1;nao qualificado;1;0;0;1
+36;existentes/pagos;reforma;2323;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;24;nenhum;alugada;1;qualificado;1;0;0;1
+6;Atrasos anteriores;reforma;932;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;1
+9;Critico-outros creditos;moveis;1919;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;35;nenhum;alugada;1;qualificado;1;1;0;1
+12;existentes/pagos;veiculo usado;2445;"Desconhecido
+";<1;2;masculino cas/viu;nao;4.0;26;nenhum;alugada;1;qualificado;1;1;0;1
+24;Critico-outros creditos;outros;11938;"<100
+";1<=X<4;2;masculino solteiro;co aplicante;3.0;39;nenhum;proria;2;altamente qualificado/empresario;2;1;0;0
+18;todos pagos;veiculo novo;6458;"<100
+";>=7;2;masculino solteiro;nao;4.0;39;banco;proria;2;altamente qualificado/empresario;2;1;0;0
+12;existentes/pagos;veiculo novo;6078;"<100
+";4<=X<7;2;masculino solteiro;nao;2.0;32;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;moveis;7721;"Desconhecido
+";<1;1;feminino div/dep/cas;nao;2.0;30;nenhum;proria;1;qualificado;1;1;1;1
+14;existentes/pagos;abrir negocio;1410;500<=X<1000;>=7;1;masculino cas/viu;nao;2.0;35;nenhum;proria;1;qualificado;1;1;0;1
+6;Atrasos anteriores;abrir negocio;1449;100<=X<500;>=7;1;maculino div/dep;nao;2.0;31;banco;proria;2;qualificado;2;0;0;1
+15;existentes/pagos;educacao;392;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;qualificado;1;1;0;1
+18;existentes/pagos;veiculo novo;6260;"<100
+";4<=X<7;3;masculino solteiro;nao;3.0;28;nenhum;alugada;1;nao qualificado;1;0;0;1
+36;Critico-outros creditos;veiculo novo;7855;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;25;loja;proria;2;qualificado;1;1;0;0
+12;existentes/pagos;reforma;1680;500<=X<1000;>=7;3;masculino cas/viu;nao;1.0;35;nenhum;proria;1;qualificado;1;0;0;1
+48;Critico-outros creditos;reforma;3578;"Desconhecido
+";>=7;4;masculino solteiro;nao;1.0;47;nenhum;proria;1;qualificado;1;1;0;1
+42;existentes/pagos;reforma;7174;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;3.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+10;Critico-outros creditos;moveis;2132;"Desconhecido
+";<1;2;feminino div/dep/cas;co requerente;3.0;27;nenhum;alugada;2;qualificado;1;0;1;1
+33;Critico-outros creditos;moveis;4281;500<=X<1000;1<=X<4;1;feminino div/dep/cas;nao;4.0;23;nenhum;proria;2;qualificado;1;0;0;0
+12;Critico-outros creditos;veiculo novo;2366;500<=X<1000;4<=X<7;3;maculino div/dep;nao;3.0;36;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+21;existentes/pagos;reforma;1835;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;25;nenhum;proria;2;qualificado;1;1;0;0
+24;Critico-outros creditos;veiculo usado;3868;"<100
+";>=7;4;feminino div/dep/cas;nao;2.0;41;nenhum;alugada;2;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;1768;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;24;nenhum;alugada;1;nao qualificado;1;0;0;1
+10;Critico-outros creditos;veiculo novo;781;"<100
+";>=7;4;masculino solteiro;nao;4.0;63;nenhum;de graca;2;qualificado;1;1;0;1
+18;existentes/pagos;moveis;1924;"Desconhecido
+";<1;4;feminino div/dep/cas;nao;3.0;27;nenhum;alugada;1;qualificado;1;0;0;0
+12;Critico-outros creditos;veiculo novo;2121;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;30;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;reforma;701;"<100
+";1<=X<4;4;masculino cas/viu;nao;2.0;40;nenhum;proria;1;nao qualificado;1;0;0;1
+12;existentes/pagos;reforma casa;639;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;30;nenhum;proria;1;qualificado;1;0;0;0
+12;Critico-outros creditos;veiculo usado;1860;"<100
+";Desempregado;4;masculino solteiro;nao;2.0;34;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+12;Critico-outros creditos;veiculo novo;3499;"<100
+";1<=X<4;3;feminino div/dep/cas;co requerente;2.0;29;nenhum;proria;2;qualificado;1;0;0;0
+48;existentes/pagos;veiculo novo;8487;"Desconhecido
+";4<=X<7;1;feminino div/dep/cas;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;1
+36;Atrasos anteriores;educacao;6887;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;29;loja;proria;1;qualificado;1;1;0;0
+15;existentes/pagos;moveis;2708;"<100
+";<1;2;masculino solteiro;nao;3.0;27;banco;proria;2;nao qualificado;1;0;0;1
+18;existentes/pagos;moveis;1984;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;47;banco;de graca;2;qualificado;1;0;0;1
+60;existentes/pagos;reforma;10144;100<=X<500;4<=X<7;2;feminino div/dep/cas;nao;4.0;21;nenhum;proria;1;qualificado;1;1;0;1
+12;Critico-outros creditos;reforma;1240;"Desconhecido
+";>=7;4;feminino div/dep/cas;nao;2.0;38;nenhum;proria;2;qualificado;1;1;0;1
+27;Atrasos anteriores;veiculo usado;8613;>=1000;1<=X<4;2;masculino solteiro;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;reforma;766;500<=X<1000;1<=X<4;4;masculino solteiro;nao;3.0;66;nenhum;proria;1;nao qualificado;1;0;0;0
+15;Critico-outros creditos;reforma;2728;"Desconhecido
+";4<=X<7;4;masculino solteiro;sim;2.0;35;banco;proria;3;qualificado;1;1;0;1
+12;existentes/pagos;reforma;1881;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;44;nenhum;alugada;1;nao qualificado;1;1;0;1
+6;existentes/pagos;veiculo novo;709;>=1000;<1;2;masculino cas/viu;nao;2.0;27;nenhum;proria;1;desempregado;1;0;1;1
+36;existentes/pagos;reforma;4795;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+27;existentes/pagos;reforma;3416;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;27;nenhum;proria;1;altamente qualificado/empresario;1;0;0;1
+18;existentes/pagos;moveis;2462;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;22;nenhum;proria;1;qualificado;1;0;0;0
+48;todos pagos;abrir negocio;3566;100<=X<500;4<=X<7;4;masculino solteiro;nao;2.0;30;nenhum;proria;1;qualificado;1;0;0;1
+6;Critico-outros creditos;veiculo novo;860;"<100
+";>=7;1;feminino div/dep/cas;nao;4.0;39;nenhum;proria;2;qualificado;1;1;0;1
+12;Critico-outros creditos;veiculo novo;682;100<=X<500;4<=X<7;4;feminino div/dep/cas;nao;3.0;51;nenhum;proria;2;qualificado;1;1;0;1
+36;Critico-outros creditos;moveis;5371;"<100
+";1<=X<4;3;masculino solteiro;sim;2.0;28;nenhum;proria;2;qualificado;1;0;0;1
+18;Critico-outros creditos;reforma;1582;>=1000;>=7;4;masculino solteiro;nao;4.0;46;nenhum;proria;2;qualificado;1;0;0;1
+6;existentes/pagos;reforma;1346;100<=X<500;>=7;2;masculino solteiro;nao;4.0;42;banco;de graca;1;qualificado;2;1;0;1
+10;existentes/pagos;reforma;1924;"<100
+";1<=X<4;1;masculino solteiro;nao;4.0;38;nenhum;proria;1;qualificado;1;1;1;1
+36;existentes/pagos;reforma;5848;"<100
+";1<=X<4;4;masculino solteiro;nao;1.0;24;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;veiculo usado;7758;>=1000;>=7;2;feminino div/dep/cas;nao;4.0;29;nenhum;alugada;1;qualificado;1;0;0;1
+24;Atrasos anteriores;abrir negocio;6967;100<=X<500;4<=X<7;4;masculino solteiro;nao;4.0;36;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;1282;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;4.0;20;nenhum;alugada;1;qualificado;1;0;0;0
+9;Critico-outros creditos;reforma casa;1288;100<=X<500;>=7;3;masculino solteiro;sim;4.0;48;nenhum;proria;2;qualificado;2;0;1;1
+12;todos pagos;qualificacao;339;"<100
+";>=7;4;masculino cas/viu;nao;1.0;45;banco;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;veiculo novo;3512;100<=X<500;4<=X<7;2;masculino solteiro;nao;3.0;38;banco;proria;2;qualificado;1;1;0;1
+6;Critico-outros creditos;reforma;1898;"Desconhecido
+";1<=X<4;1;masculino solteiro;nao;2.0;34;nenhum;proria;2;nao qualificado;2;0;0;1
+24;Critico-outros creditos;reforma;2872;100<=X<500;>=7;3;masculino solteiro;nao;4.0;36;nenhum;proria;1;qualificado;2;1;0;1
+18;Critico-outros creditos;veiculo novo;1055;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;30;nenhum;proria;2;qualificado;1;0;0;1
+15;existentes/pagos;quitar divida;1262;500<=X<1000;4<=X<7;4;masculino solteiro;nao;3.0;36;nenhum;proria;2;qualificado;1;1;0;1
+10;existentes/pagos;veiculo novo;7308;"<100
+";Desempregado;2;masculino solteiro;nao;4.0;70;banco;de graca;1;altamente qualificado/empresario;1;1;0;1
+36;existentes/pagos;veiculo novo;909;500<=X<1000;>=7;4;masculino solteiro;nao;4.0;36;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;moveis;2978;500<=X<1000;1<=X<4;1;masculino solteiro;nao;2.0;32;nenhum;proria;1;qualificado;1;1;0;1
+18;existentes/pagos;moveis;1131;"<100
+";Desempregado;4;feminino div/dep/cas;nao;2.0;33;nenhum;proria;1;qualificado;1;0;0;0
+11;existentes/pagos;moveis;1577;>=1000;<1;4;feminino div/dep/cas;nao;1.0;20;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;abrir negocio;1935;"<100
+";>=7;4;maculino div/dep;nao;4.0;31;nenhum;proria;2;qualificado;1;1;0;0
+15;sem creditos/todos pagos;veiculo novo;950;"<100
+";>=7;4;masculino solteiro;nao;3.0;33;nenhum;alugada;2;qualificado;2;0;0;0
+12;existentes/pagos;moveis;763;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;1.0;26;nenhum;proria;1;qualificado;1;1;0;1
+24;Atrasos anteriores;moveis;2064;"<100
+";Desempregado;3;feminino div/dep/cas;nao;2.0;34;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+21;Atrasos anteriores;educacao;3414;"<100
+";<1;2;masculino solteiro;nao;1.0;26;nenhum;proria;2;qualificado;1;0;0;0
+30;todos pagos;veiculo usado;7485;"Desconhecido
+";Desempregado;4;feminino div/dep/cas;nao;1.0;53;banco;proria;1;altamente qualificado/empresario;1;1;0;0
+12;existentes/pagos;moveis;2577;"<100
+";1<=X<4;2;maculino div/dep;nao;1.0;42;nenhum;proria;1;qualificado;1;0;0;1
+6;Critico-outros creditos;reforma;338;500<=X<1000;>=7;4;masculino solteiro;nao;4.0;52;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;reforma;1963;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;31;nenhum;alugada;2;altamente qualificado/empresario;2;1;0;1
+21;Critico-outros creditos;veiculo novo;571;"<100
+";>=7;4;masculino solteiro;nao;4.0;65;nenhum;proria;2;qualificado;1;0;0;1
+36;Atrasos anteriores;abrir negocio;9572;"<100
+";<1;1;maculino div/dep;nao;1.0;28;nenhum;proria;2;qualificado;1;0;0;0
+36;Atrasos anteriores;abrir negocio;4455;"<100
+";1<=X<4;2;maculino div/dep;nao;2.0;30;loja;proria;2;altamente qualificado/empresario;1;1;0;0
+21;todos pagos;veiculo novo;1647;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;2.0;40;nenhum;proria;2;nao qualificado;2;0;0;0
+24;Critico-outros creditos;moveis;3777;>=1000;1<=X<4;4;masculino solteiro;nao;4.0;50;nenhum;proria;1;qualificado;1;1;0;1
+18;Critico-outros creditos;veiculo novo;884;"<100
+";>=7;4;masculino solteiro;nao;4.0;36;banco;proria;1;qualificado;2;1;0;0
+15;Critico-outros creditos;reforma;1360;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;31;nenhum;proria;2;qualificado;1;0;0;1
+9;todos pagos;veiculo usado;5129;"<100
+";>=7;2;feminino div/dep/cas;nao;4.0;74;banco;de graca;1;altamente qualificado/empresario;2;1;0;0
+16;Critico-outros creditos;veiculo novo;1175;"<100
+";Desempregado;2;masculino solteiro;nao;3.0;68;nenhum;de graca;3;desempregado;1;1;0;1
+12;existentes/pagos;reforma;674;100<=X<500;4<=X<7;4;masculino cas/viu;nao;1.0;20;nenhum;proria;1;qualificado;1;0;0;0
+18;sem creditos/todos pagos;moveis;3244;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;4.0;33;banco;proria;2;qualificado;1;1;0;1
+24;existentes/pagos;abrir negocio;4591;>=1000;1<=X<4;2;masculino solteiro;nao;3.0;54;nenhum;proria;3;altamente qualificado/empresario;1;1;0;0
+48;sem creditos/todos pagos;abrir negocio;3844;100<=X<500;4<=X<7;4;masculino solteiro;nao;4.0;34;nenhum;de graca;1;nao qualificado;2;0;0;0
+27;existentes/pagos;abrir negocio;3915;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;36;nenhum;proria;1;qualificado;2;1;0;0
+6;existentes/pagos;reforma;2108;"<100
+";4<=X<7;2;masculino cas/viu;nao;2.0;29;nenhum;alugada;1;qualificado;1;0;0;1
+45;existentes/pagos;reforma;3031;100<=X<500;1<=X<4;4;masculino solteiro;sim;4.0;21;nenhum;alugada;1;qualificado;1;0;0;0
+9;Critico-outros creditos;educacao;1501;"<100
+";>=7;2;feminino div/dep/cas;nao;3.0;34;nenhum;proria;2;altamente qualificado/empresario;1;1;0;0
+6;Critico-outros creditos;reforma;1382;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;1.0;28;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;moveis;951;100<=X<500;<1;4;feminino div/dep/cas;nao;4.0;27;banco;alugada;4;qualificado;1;0;0;0
+9;Critico-outros creditos;educacao;936;500<=X<1000;>=7;4;masculino solteiro;nao;2.0;52;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;veiculo novo;1168;"<100
+";1<=X<4;4;masculino cas/viu;nao;3.0;27;nenhum;proria;1;nao qualificado;1;0;0;1
+27;Atrasos anteriores;abrir negocio;5117;"<100
+";4<=X<7;3;masculino solteiro;nao;4.0;26;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;qualificacao;902;"<100
+";4<=X<7;4;masculino cas/viu;nao;4.0;21;nenhum;alugada;1;qualificado;1;0;0;0
+12;Critico-outros creditos;veiculo novo;1495;"<100
+";>=7;4;masculino solteiro;nao;1.0;38;nenhum;proria;2;nao qualificado;2;0;0;1
+30;Critico-outros creditos;veiculo usado;10623;"<100
+";>=7;3;masculino solteiro;nao;4.0;38;nenhum;de graca;3;altamente qualificado/empresario;2;1;0;1
+12;Critico-outros creditos;moveis;1935;"<100
+";>=7;4;masculino solteiro;nao;4.0;43;nenhum;proria;3;qualificado;1;1;0;1
+12;Critico-outros creditos;quitar divida;1424;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;26;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;abrir negocio;6568;"<100
+";1<=X<4;2;masculino cas/viu;nao;2.0;21;loja;proria;1;nao qualificado;1;0;0;1
+12;existentes/pagos;veiculo usado;1413;>=1000;4<=X<7;3;masculino solteiro;nao;2.0;55;nenhum;proria;1;qualificado;1;0;1;1
+9;Critico-outros creditos;reforma;3074;"Desconhecido
+";1<=X<4;1;masculino solteiro;nao;2.0;33;nenhum;proria;2;qualificado;2;0;0;1
+36;existentes/pagos;reforma;3835;"Desconhecido
+";>=7;2;feminino div/dep/cas;nao;4.0;45;nenhum;proria;1;nao qualificado;1;1;0;1
+27;sem creditos/todos pagos;abrir negocio;5293;"<100
+";Desempregado;2;masculino solteiro;nao;4.0;50;loja;proria;2;qualificado;1;1;0;0
+30;Atrasos anteriores;abrir negocio;1908;"<100
+";>=7;4;masculino solteiro;nao;4.0;66;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+36;Critico-outros creditos;reforma;3342;"Desconhecido
+";>=7;4;masculino solteiro;nao;2.0;51;nenhum;proria;1;qualificado;1;1;0;1
+6;Critico-outros creditos;qualificacao;932;"Desconhecido
+";4<=X<7;1;feminino div/dep/cas;nao;3.0;39;nenhum;proria;2;nao qualificado;1;0;0;1
+18;sem creditos/todos pagos;abrir negocio;3104;"<100
+";4<=X<7;3;masculino solteiro;nao;1.0;31;banco;proria;1;qualificado;1;1;0;1
+36;existentes/pagos;reforma;3913;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;23;nenhum;proria;1;qualificado;1;1;0;1
+24;existentes/pagos;moveis;3021;"<100
+";1<=X<4;2;maculino div/dep;nao;2.0;24;nenhum;alugada;1;nao qualificado;1;0;0;1
+10;existentes/pagos;veiculo novo;1364;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;4.0;64;nenhum;proria;1;qualificado;1;1;0;1
+12;existentes/pagos;reforma;625;"<100
+";<1;4;masculino cas/viu;sim;1.0;26;banco;proria;1;nao qualificado;1;0;0;1
+12;existentes/pagos;educacao;1200;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;23;banco;alugada;1;qualificado;1;1;0;1
+12;existentes/pagos;reforma;707;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;30;banco;proria;2;qualificado;1;0;0;1
+24;Atrasos anteriores;abrir negocio;2978;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;32;nenhum;proria;2;qualificado;2;1;0;1
+15;existentes/pagos;veiculo usado;4657;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;30;nenhum;proria;1;qualificado;1;1;0;1
+36;sem creditos/todos pagos;reforma casa;2613;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+48;existentes/pagos;reforma;10961;>=1000;4<=X<7;1;masculino solteiro;co requerente;2.0;27;banco;proria;2;qualificado;1;1;0;0
+12;existentes/pagos;moveis;7865;"<100
+";>=7;4;masculino solteiro;nao;4.0;53;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+9;existentes/pagos;reforma;1478;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;22;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;moveis;3149;"<100
+";<1;4;masculino solteiro;nao;1.0;22;banco;de graca;1;qualificado;1;0;0;1
+36;existentes/pagos;reforma;4210;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;26;nenhum;proria;1;qualificado;1;0;0;0
+9;existentes/pagos;veiculo novo;2507;500<=X<1000;>=7;2;masculino solteiro;nao;4.0;51;nenhum;de graca;1;nao qualificado;1;0;0;1
+4;Critico-outros creditos;reforma;1544;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;42;nenhum;proria;3;nao qualificado;2;0;0;1
+24;existentes/pagos;reforma;1823;"<100
+";Desempregado;4;masculino solteiro;nao;2.0;30;loja;proria;1;altamente qualificado/empresario;2;0;0;0
+6;existentes/pagos;veiculo novo;14555;"Desconhecido
+";Desempregado;1;masculino solteiro;nao;2.0;23;nenhum;proria;1;desempregado;1;1;0;0
+21;existentes/pagos;abrir negocio;2767;100<=X<500;>=7;4;maculino div/dep;nao;2.0;61;banco;alugada;2;nao qualificado;1;0;0;0
+12;Critico-outros creditos;reforma;1291;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;35;nenhum;proria;2;qualificado;1;0;0;1
+30;existentes/pagos;reforma;2522;"<100
+";>=7;1;masculino solteiro;sim;3.0;39;nenhum;proria;1;qualificado;2;0;0;1
+24;existentes/pagos;veiculo novo;915;"Desconhecido
+";>=7;4;feminino div/dep/cas;nao;2.0;29;banco;proria;1;qualificado;1;0;0;0
+6;existentes/pagos;reforma;1595;"<100
+";4<=X<7;3;masculino solteiro;nao;2.0;51;nenhum;proria;1;qualificado;2;0;0;1
+48;sem creditos/todos pagos;veiculo usado;4605;"<100
+";>=7;3;masculino solteiro;nao;4.0;24;nenhum;de graca;2;qualificado;2;0;0;0
+12;Critico-outros creditos;abrir negocio;1185;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+12;todos pagos;qualificacao;3447;500<=X<1000;1<=X<4;4;feminino div/dep/cas;nao;3.0;35;nenhum;proria;1;nao qualificado;2;0;0;1
+24;existentes/pagos;abrir negocio;1258;"<100
+";4<=X<7;4;masculino solteiro;nao;1.0;25;nenhum;proria;1;qualificado;1;1;0;1
+12;Critico-outros creditos;reforma;717;"<100
+";>=7;4;masculino solteiro;nao;4.0;52;nenhum;proria;3;qualificado;1;0;0;1
+6;sem creditos/todos pagos;veiculo novo;1204;100<=X<500;1<=X<4;4;masculino solteiro;nao;1.0;35;banco;alugada;1;qualificado;1;0;1;1
+24;existentes/pagos;moveis;1925;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;26;nenhum;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;reforma;433;"<100
+";Desempregado;3;feminino div/dep/cas;co requerente;4.0;22;nenhum;alugada;1;qualificado;1;0;0;0
+6;Critico-outros creditos;veiculo novo;666;>=1000;4<=X<7;3;feminino div/dep/cas;nao;4.0;39;nenhum;proria;2;nao qualificado;1;1;0;1
+12;existentes/pagos;moveis;2251;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;46;nenhum;proria;1;nao qualificado;1;0;0;1
+30;existentes/pagos;veiculo novo;2150;"<100
+";1<=X<4;4;feminino div/dep/cas;sim;2.0;24;banco;proria;1;qualificado;1;0;0;0
+24;Atrasos anteriores;moveis;4151;100<=X<500;1<=X<4;2;masculino solteiro;nao;3.0;35;nenhum;proria;2;qualificado;1;0;0;1
+9;existentes/pagos;moveis;2030;"Desconhecido
+";4<=X<7;2;masculino solteiro;nao;1.0;24;nenhum;proria;1;qualificado;1;1;0;1
+60;Atrasos anteriores;reforma;7418;"Desconhecido
+";1<=X<4;1;masculino solteiro;nao;1.0;27;nenhum;proria;1;nao qualificado;1;0;0;1
+24;Critico-outros creditos;reforma;2684;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;35;nenhum;proria;2;nao qualificado;1;0;0;1
+12;todos pagos;reforma;2149;"<100
+";1<=X<4;4;maculino div/dep;nao;1.0;29;nenhum;de graca;1;qualificado;1;0;0;0
+15;existentes/pagos;veiculo usado;3812;100<=X<500;<1;1;feminino div/dep/cas;nao;4.0;23;nenhum;proria;1;qualificado;1;1;0;1
+11;Critico-outros creditos;reforma;1154;100<=X<500;Desempregado;4;feminino div/dep/cas;nao;4.0;57;nenhum;proria;3;nao qualificado;1;0;0;1
+12;existentes/pagos;moveis;1657;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;27;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;1603;"<100
+";>=7;4;feminino div/dep/cas;nao;4.0;55;nenhum;proria;1;qualificado;1;0;0;1
+18;Critico-outros creditos;veiculo novo;5302;"<100
+";>=7;2;masculino solteiro;nao;4.0;36;nenhum;de graca;3;altamente qualificado/empresario;1;1;0;1
+12;Critico-outros creditos;educacao;2748;"<100
+";>=7;2;feminino div/dep/cas;nao;4.0;57;banco;de graca;3;nao qualificado;1;0;0;1
+10;Critico-outros creditos;veiculo novo;1231;"<100
+";>=7;3;masculino solteiro;nao;4.0;32;nenhum;proria;2;nao qualificado;2;0;1;1
+15;existentes/pagos;reforma;802;"<100
+";>=7;4;masculino solteiro;nao;3.0;37;nenhum;proria;1;qualificado;2;0;0;0
+36;Critico-outros creditos;abrir negocio;6304;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;36;nenhum;proria;2;qualificado;1;0;0;1
+24;existentes/pagos;reforma;1533;"<100
+";<1;4;feminino div/dep/cas;nao;3.0;38;loja;proria;1;qualificado;1;1;0;1
+14;existentes/pagos;veiculo novo;8978;"<100
+";>=7;1;maculino div/dep;nao;4.0;45;nenhum;proria;1;altamente qualificado/empresario;1;1;1;0
+18;existentes/pagos;veiculo novo;2662;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;3.0;32;nenhum;proria;1;qualificado;1;0;1;1
+12;Critico-outros creditos;moveis;1402;500<=X<1000;4<=X<7;3;feminino div/dep/cas;nao;4.0;37;nenhum;alugada;1;qualificado;1;1;0;1
+48;todos pagos;veiculo novo;12169;"Desconhecido
+";Desempregado;4;masculino solteiro;co requerente;4.0;36;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+48;existentes/pagos;reforma;3060;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;28;nenhum;proria;2;qualificado;1;0;0;0
+30;existentes/pagos;reforma casa;11998;"<100
+";<1;1;maculino div/dep;nao;1.0;34;nenhum;proria;1;nao qualificado;1;1;0;0
+9;existentes/pagos;reforma;2697;"<100
+";1<=X<4;1;masculino solteiro;nao;2.0;32;nenhum;proria;1;qualificado;2;0;0;1
+18;Critico-outros creditos;reforma;2404;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;26;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;moveis;1262;"Desconhecido
+";>=7;2;maculino div/dep;nao;4.0;49;nenhum;proria;1;nao qualificado;1;1;0;1
+6;existentes/pagos;moveis;4611;"<100
+";<1;1;feminino div/dep/cas;nao;4.0;32;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;reforma;1901;100<=X<500;1<=X<4;4;masculino solteiro;nao;4.0;29;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+15;Critico-outros creditos;veiculo usado;3368;>=1000;>=7;3;masculino solteiro;nao;4.0;23;nenhum;alugada;2;qualificado;1;1;0;1
+12;existentes/pagos;moveis;1574;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;50;nenhum;proria;1;qualificado;1;0;0;1
+18;todos pagos;reforma;1445;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;4.0;49;banco;proria;1;nao qualificado;1;0;0;1
+15;Critico-outros creditos;moveis;1520;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;63;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;veiculo novo;3878;100<=X<500;<1;4;maculino div/dep;nao;2.0;37;nenhum;proria;1;qualificado;1;1;0;1
+47;existentes/pagos;veiculo novo;10722;"<100
+";<1;1;feminino div/dep/cas;nao;1.0;35;nenhum;proria;1;nao qualificado;1;1;0;1
+48;existentes/pagos;veiculo usado;4788;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;26;nenhum;proria;1;qualificado;2;0;0;1
+48;Atrasos anteriores;outros;7582;100<=X<500;Desempregado;2;masculino solteiro;nao;4.0;31;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;reforma;1092;"<100
+";1<=X<4;4;feminino div/dep/cas;sim;4.0;49;nenhum;proria;2;qualificado;1;1;0;1
+24;Atrasos anteriores;reforma;1024;"<100
+";<1;4;masculino cas/viu;nao;4.0;48;loja;proria;1;qualificado;1;0;0;0
+12;existentes/pagos;abrir negocio;1076;"<100
+";1<=X<4;2;masculino cas/viu;nao;2.0;26;nenhum;proria;1;qualificado;1;1;1;1
+36;existentes/pagos;veiculo usado;9398;"<100
+";<1;1;masculino cas/viu;nao;4.0;28;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;0
+24;Critico-outros creditos;veiculo usado;6419;"<100
+";>=7;2;feminino div/dep/cas;nao;4.0;44;nenhum;de graca;2;altamente qualificado/empresario;2;1;0;1
+42;Critico-outros creditos;veiculo usado;4796;"<100
+";>=7;4;masculino solteiro;nao;4.0;56;nenhum;de graca;1;qualificado;1;0;0;1
+48;Critico-outros creditos;abrir negocio;7629;"Desconhecido
+";>=7;4;maculino div/dep;nao;2.0;46;banco;proria;2;altamente qualificado/empresario;2;0;0;1
+48;existentes/pagos;moveis;9960;"<100
+";<1;1;feminino div/dep/cas;nao;2.0;26;nenhum;proria;1;qualificado;1;1;0;0
+12;existentes/pagos;veiculo usado;4675;"Desconhecido
+";<1;1;feminino div/dep/cas;nao;4.0;20;nenhum;alugada;1;qualificado;1;0;0;1
+10;existentes/pagos;veiculo novo;1287;"Desconhecido
+";>=7;4;masculino solteiro;co requerente;2.0;45;nenhum;proria;1;nao qualificado;1;0;1;1
+18;existentes/pagos;moveis;2515;"<100
+";1<=X<4;3;masculino solteiro;nao;4.0;43;nenhum;proria;1;qualificado;1;1;0;1
+21;Critico-outros creditos;moveis;2745;>=1000;4<=X<7;3;masculino solteiro;nao;2.0;32;nenhum;proria;2;qualificado;1;1;0;1
+6;existentes/pagos;veiculo novo;672;"<100
+";Desempregado;1;feminino div/dep/cas;nao;4.0;54;nenhum;proria;1;desempregado;1;1;0;1
+36;sem creditos/todos pagos;reforma;3804;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;1.0;42;nenhum;proria;1;qualificado;1;1;0;0
+24;Critico-outros creditos;veiculo novo;1344;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;2.0;37;banco;proria;2;nao qualificado;2;0;0;0
+10;Critico-outros creditos;veiculo novo;1038;"<100
+";4<=X<7;4;masculino solteiro;co requerente;3.0;49;nenhum;proria;2;qualificado;1;1;0;1
+48;Critico-outros creditos;veiculo novo;10127;500<=X<1000;1<=X<4;2;masculino solteiro;nao;2.0;44;banco;de graca;1;qualificado;1;0;0;0
+6;existentes/pagos;moveis;1543;>=1000;1<=X<4;4;maculino div/dep;nao;2.0;33;nenhum;proria;1;qualificado;1;0;0;1
+30;existentes/pagos;veiculo usado;4811;"Desconhecido
+";4<=X<7;2;feminino div/dep/cas;nao;4.0;24;loja;alugada;1;nao qualificado;1;0;0;1
+12;existentes/pagos;reforma;727;100<=X<500;<1;4;masculino cas/viu;nao;3.0;33;nenhum;proria;1;nao qualificado;1;1;0;0
+8;existentes/pagos;moveis;1237;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;4.0;24;nenhum;proria;1;qualificado;1;0;0;0
+9;existentes/pagos;veiculo novo;276;"<100
+";1<=X<4;4;masculino cas/viu;nao;4.0;22;nenhum;alugada;1;nao qualificado;1;0;0;1
+48;existentes/pagos;outros;5381;"Desconhecido
+";Desempregado;3;masculino solteiro;nao;4.0;40;banco;de graca;1;desempregado;1;1;0;1
+24;existentes/pagos;moveis;5511;100<=X<500;1<=X<4;4;masculino solteiro;nao;1.0;25;loja;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;moveis;3749;"<100
+";<1;2;feminino div/dep/cas;nao;4.0;26;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;685;"<100
+";4<=X<7;2;masculino cas/viu;nao;3.0;25;banco;proria;1;nao qualificado;1;0;0;0
+4;existentes/pagos;veiculo novo;1494;"Desconhecido
+";<1;1;masculino solteiro;nao;2.0;29;nenhum;proria;1;nao qualificado;2;0;1;1
+36;todos pagos;moveis;2746;"<100
+";>=7;4;masculino solteiro;nao;4.0;31;banco;proria;1;qualificado;1;0;0;0
+12;existentes/pagos;moveis;708;"<100
+";1<=X<4;2;masculino solteiro;sim;3.0;38;nenhum;proria;1;nao qualificado;2;0;0;1
+24;existentes/pagos;moveis;4351;"Desconhecido
+";1<=X<4;1;feminino div/dep/cas;nao;4.0;48;nenhum;proria;1;nao qualificado;1;1;0;1
+12;Critico-outros creditos;educacao;701;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;32;nenhum;proria;2;qualificado;1;0;0;1
+15;Atrasos anteriores;moveis;3643;"<100
+";>=7;1;feminino div/dep/cas;nao;4.0;27;nenhum;proria;2;nao qualificado;1;0;0;1
+30;Critico-outros creditos;veiculo novo;4249;"<100
+";Desempregado;4;masculino cas/viu;nao;2.0;28;nenhum;proria;2;altamente qualificado/empresario;1;0;0;0
+24;existentes/pagos;reforma;1938;"<100
+";<1;4;maculino div/dep;nao;3.0;32;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;veiculo usado;2910;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;34;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+18;existentes/pagos;moveis;2659;>=1000;1<=X<4;4;masculino solteiro;nao;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+18;Critico-outros creditos;veiculo novo;1028;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;3.0;36;nenhum;proria;2;qualificado;1;0;0;1
+8;Critico-outros creditos;veiculo novo;3398;"<100
+";4<=X<7;1;masculino solteiro;nao;4.0;39;nenhum;proria;2;nao qualificado;1;0;1;1
+12;Critico-outros creditos;moveis;5801;"Desconhecido
+";>=7;2;masculino solteiro;nao;4.0;49;nenhum;alugada;1;qualificado;1;1;0;1
+24;existentes/pagos;veiculo novo;1525;>=1000;4<=X<7;4;feminino div/dep/cas;nao;3.0;34;nenhum;proria;1;qualificado;2;1;0;1
+36;existentes/pagos;reforma;4473;"<100
+";>=7;4;masculino solteiro;nao;2.0;31;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;reforma;1068;"<100
+";>=7;4;masculino solteiro;nao;4.0;28;nenhum;proria;1;qualificado;2;0;0;1
+24;Critico-outros creditos;veiculo usado;6615;"<100
+";Desempregado;2;masculino solteiro;nao;4.0;75;nenhum;de graca;2;altamente qualificado/empresario;1;1;0;1
+18;Critico-outros creditos;educacao;1864;100<=X<500;1<=X<4;4;feminino div/dep/cas;nao;2.0;30;nenhum;proria;2;qualificado;1;0;0;0
+60;existentes/pagos;veiculo novo;7408;100<=X<500;<1;4;feminino div/dep/cas;nao;2.0;24;nenhum;proria;1;altamente qualificado/empresario;1;0;0;0
+48;Critico-outros creditos;veiculo usado;11590;100<=X<500;1<=X<4;2;feminino div/dep/cas;nao;4.0;24;banco;alugada;2;nao qualificado;1;0;0;0
+24;sem creditos/todos pagos;moveis;4110;"<100
+";>=7;3;masculino solteiro;nao;4.0;23;banco;alugada;2;qualificado;2;0;0;0
+6;Critico-outros creditos;moveis;3384;"<100
+";1<=X<4;1;maculino div/dep;nao;4.0;44;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;0
+13;existentes/pagos;reforma;2101;"<100
+";<1;2;feminino div/dep/cas;sim;4.0;23;nenhum;proria;1;nao qualificado;1;0;0;1
+15;existentes/pagos;quitar divida;1275;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;24;nenhum;alugada;1;qualificado;1;0;0;0
+24;existentes/pagos;moveis;4169;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;28;nenhum;proria;1;qualificado;1;0;0;1
+10;existentes/pagos;moveis;1521;"<100
+";1<=X<4;4;maculino div/dep;nao;2.0;31;nenhum;proria;1;nao qualificado;1;0;0;1
+24;Critico-outros creditos;educacao;5743;"<100
+";<1;2;feminino div/dep/cas;nao;4.0;24;nenhum;de graca;2;qualificado;1;1;0;1
+21;existentes/pagos;moveis;3599;"<100
+";4<=X<7;1;feminino div/dep/cas;nao;4.0;26;nenhum;alugada;1;nao qualificado;1;0;0;1
+18;existentes/pagos;reforma;3213;500<=X<1000;<1;1;masculino cas/viu;nao;3.0;25;nenhum;alugada;1;qualificado;1;0;0;1
+18;existentes/pagos;abrir negocio;4439;"<100
+";>=7;1;masculino solteiro;co requerente;1.0;33;banco;proria;1;altamente qualificado/empresario;1;1;0;1
+10;existentes/pagos;veiculo novo;3949;"<100
+";<1;1;masculino solteiro;sim;1.0;37;nenhum;proria;1;nao qualificado;2;0;0;1
+15;Critico-outros creditos;reforma;1459;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;43;nenhum;proria;1;nao qualificado;1;0;0;1
+13;Critico-outros creditos;reforma;882;"<100
+";<1;4;masculino solteiro;sim;4.0;23;nenhum;proria;2;qualificado;1;0;0;1
+24;existentes/pagos;reforma;3758;500<=X<1000;Desempregado;1;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;desempregado;1;0;0;1
+6;Atrasos anteriores;abrir negocio;1743;100<=X<500;1<=X<4;1;masculino solteiro;nao;2.0;34;nenhum;proria;2;nao qualificado;1;0;0;1
+9;existentes/pagos;quitar divida;1236;"<100
+";<1;1;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;qualificado;1;1;0;1
+9;existentes/pagos;moveis;959;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;29;nenhum;proria;1;qualificado;1;0;1;0
+18;Critico-outros creditos;veiculo usado;3229;"Desconhecido
+";Desempregado;2;masculino solteiro;nao;4.0;38;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;sem creditos/todos pagos;reforma;6199;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;28;nenhum;alugada;2;qualificado;1;1;0;0
+10;existentes/pagos;educacao;727;500<=X<1000;>=7;4;masculino solteiro;nao;4.0;46;nenhum;de graca;1;qualificado;1;1;0;1
+12;Critico-outros creditos;reforma;2331;"Desconhecido
+";>=7;1;masculino solteiro;co requerente;4.0;49;nenhum;proria;1;qualificado;1;1;0;1
+36;Atrasos anteriores;reforma;4463;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;26;nenhum;proria;2;altamente qualificado/empresario;1;1;0;0
+12;existentes/pagos;reforma;776;"<100
+";1<=X<4;4;masculino cas/viu;nao;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+30;existentes/pagos;moveis;2406;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;qualificado;1;0;0;0
+18;existentes/pagos;educacao;1239;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;61;nenhum;de graca;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;3399;"Desconhecido
+";>=7;2;masculino solteiro;nao;3.0;37;nenhum;proria;1;altamente qualificado/empresario;1;0;0;1
+12;Atrasos anteriores;veiculo novo;2247;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;36;loja;proria;2;qualificado;1;1;0;1
+6;existentes/pagos;moveis;1766;"<100
+";1<=X<4;1;masculino cas/viu;nao;2.0;21;nenhum;alugada;1;qualificado;1;0;0;1
+18;existentes/pagos;moveis;2473;"<100
+";Desempregado;4;masculino solteiro;nao;1.0;25;nenhum;proria;1;desempregado;1;0;0;0
+12;existentes/pagos;abrir negocio;1542;"<100
+";4<=X<7;2;masculino solteiro;nao;4.0;36;nenhum;proria;1;qualificado;1;1;0;1
+18;Critico-outros creditos;veiculo usado;3850;"<100
+";4<=X<7;3;masculino solteiro;nao;1.0;27;nenhum;proria;2;qualificado;1;0;0;1
+18;existentes/pagos;moveis;3650;"<100
+";<1;1;feminino div/dep/cas;nao;4.0;22;nenhum;alugada;1;qualificado;1;0;0;1
+36;existentes/pagos;moveis;3446;"<100
+";>=7;4;masculino solteiro;nao;2.0;42;nenhum;proria;1;qualificado;2;0;0;0
+18;existentes/pagos;moveis;3001;"<100
+";4<=X<7;2;feminino div/dep/cas;nao;4.0;40;nenhum;alugada;1;qualificado;1;0;0;1
+36;existentes/pagos;veiculo novo;3079;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;36;nenhum;proria;1;qualificado;1;0;0;1
+18;Critico-outros creditos;reforma;6070;"<100
+";>=7;3;masculino solteiro;nao;4.0;33;nenhum;proria;2;qualificado;1;1;0;1
+10;Critico-outros creditos;moveis;2146;"<100
+";<1;1;feminino div/dep/cas;nao;3.0;23;nenhum;alugada;2;qualificado;1;0;0;1
+60;Critico-outros creditos;veiculo novo;13756;"Desconhecido
+";>=7;2;masculino solteiro;nao;4.0;63;banco;de graca;1;altamente qualificado/empresario;1;1;0;1
+60;todos pagos;outros;14782;100<=X<500;>=7;3;feminino div/dep/cas;nao;4.0;60;banco;de graca;2;altamente qualificado/empresario;1;1;0;0
+48;todos pagos;abrir negocio;7685;"<100
+";4<=X<7;2;feminino div/dep/cas;sim;4.0;37;nenhum;alugada;1;qualificado;1;0;0;0
+18;Atrasos anteriores;reforma;2320;"<100
+";Desempregado;2;masculino cas/viu;nao;3.0;34;nenhum;proria;2;qualificado;1;0;0;1
+7;Atrasos anteriores;reforma;846;"Desconhecido
+";>=7;3;masculino solteiro;nao;4.0;36;nenhum;de graca;1;qualificado;1;0;0;1
+36;existentes/pagos;veiculo novo;14318;"<100
+";>=7;4;masculino solteiro;nao;2.0;57;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+6;Critico-outros creditos;veiculo novo;362;100<=X<500;1<=X<4;4;feminino div/dep/cas;nao;4.0;52;nenhum;proria;2;nao qualificado;1;0;0;1
+20;existentes/pagos;moveis;2212;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;4.0;39;nenhum;proria;1;qualificado;1;1;0;1
+18;existentes/pagos;veiculo usado;12976;"<100
+";Desempregado;3;feminino div/dep/cas;nao;4.0;38;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+22;existentes/pagos;veiculo novo;1283;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;25;nenhum;alugada;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;1330;"<100
+";<1;4;masculino solteiro;nao;1.0;26;nenhum;proria;1;qualificado;1;0;0;1
+30;Atrasos anteriores;abrir negocio;4272;100<=X<500;1<=X<4;2;masculino solteiro;nao;2.0;26;nenhum;proria;2;nao qualificado;1;0;0;1
+18;Critico-outros creditos;reforma;2238;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;1.0;25;nenhum;proria;2;qualificado;1;0;0;1
+18;existentes/pagos;reforma;1126;"Desconhecido
+";<1;4;feminino div/dep/cas;nao;2.0;21;nenhum;alugada;1;qualificado;1;1;0;1
+18;Critico-outros creditos;moveis;7374;"<100
+";Desempregado;4;masculino solteiro;nao;4.0;40;loja;proria;2;altamente qualificado/empresario;1;1;0;1
+15;Critico-outros creditos;abrir negocio;2326;500<=X<1000;1<=X<4;2;masculino solteiro;nao;4.0;27;banco;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;abrir negocio;1449;"<100
+";4<=X<7;3;feminino div/dep/cas;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+18;existentes/pagos;veiculo novo;1820;"<100
+";1<=X<4;2;masculino cas/viu;nao;2.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;983;>=1000;<1;1;feminino div/dep/cas;nao;4.0;19;nenhum;alugada;1;nao qualificado;1;0;0;1
+36;existentes/pagos;veiculo novo;3249;"<100
+";4<=X<7;2;masculino solteiro;nao;4.0;39;banco;de graca;1;altamente qualificado/empresario;2;1;0;1
+6;Critico-outros creditos;reforma;1957;"<100
+";4<=X<7;1;feminino div/dep/cas;nao;4.0;31;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;moveis;2578;"<100
+";Desempregado;3;feminino div/dep/cas;nao;4.0;55;nenhum;de graca;1;altamente qualificado/empresario;1;0;0;1
+36;Critico-outros creditos;moveis;2348;"<100
+";1<=X<4;3;masculino cas/viu;nao;2.0;46;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;veiculo novo;1223;"<100
+";>=7;1;maculino div/dep;nao;1.0;46;nenhum;alugada;2;qualificado;1;0;0;0
+24;Critico-outros creditos;reforma;1516;>=1000;1<=X<4;4;feminino div/dep/cas;nao;1.0;43;nenhum;proria;2;nao qualificado;1;0;0;1
+18;existentes/pagos;reforma;1473;"<100
+";<1;3;masculino cas/viu;nao;4.0;39;nenhum;proria;1;qualificado;1;1;0;1
+18;Critico-outros creditos;abrir negocio;1887;"Desconhecido
+";1<=X<4;4;masculino cas/viu;nao;4.0;28;banco;proria;2;qualificado;1;0;0;1
+24;Atrasos anteriores;abrir negocio;8648;"<100
+";<1;2;masculino solteiro;nao;2.0;27;banco;proria;2;qualificado;1;1;0;0
+14;Atrasos anteriores;veiculo novo;802;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;27;nenhum;proria;2;nao qualificado;1;0;0;1
+18;Atrasos anteriores;veiculo novo;2899;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;43;nenhum;proria;1;qualificado;2;0;0;1
+24;existentes/pagos;reforma;2039;"<100
+";<1;1;masculino cas/viu;nao;1.0;22;nenhum;proria;1;qualificado;1;1;0;0
+24;Critico-outros creditos;veiculo usado;2197;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;4.0;43;nenhum;proria;2;qualificado;2;1;0;1
+15;existentes/pagos;reforma;1053;"<100
+";<1;4;masculino cas/viu;nao;2.0;27;nenhum;proria;1;qualificado;1;0;1;1
+24;existentes/pagos;reforma;3235;500<=X<1000;>=7;3;maculino div/dep;nao;2.0;26;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;Critico-outros creditos;veiculo novo;939;500<=X<1000;4<=X<7;4;masculino cas/viu;nao;2.0;28;nenhum;proria;3;qualificado;1;1;0;0
+24;existentes/pagos;reforma;1967;"<100
+";>=7;4;feminino div/dep/cas;nao;4.0;20;nenhum;proria;1;qualificado;1;1;0;1
+12;Critico-outros creditos;abrir negocio;2292;"<100
+";Desempregado;4;masculino solteiro;nao;2.0;42;loja;proria;2;altamente qualificado/empresario;1;1;0;0
+10;existentes/pagos;veiculo novo;1597;500<=X<1000;1<=X<4;3;masculino solteiro;nao;2.0;40;nenhum;alugada;1;nao qualificado;2;0;1;1
+24;existentes/pagos;veiculo novo;1381;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;35;nenhum;proria;1;qualificado;1;0;0;0
+36;Critico-outros creditos;veiculo usado;5842;"<100
+";>=7;2;masculino solteiro;nao;2.0;35;nenhum;proria;2;qualificado;2;1;0;1
+12;existentes/pagos;veiculo novo;2579;"<100
+";<1;4;masculino solteiro;nao;1.0;33;nenhum;proria;1;nao qualificado;2;0;0;0
+18;Atrasos anteriores;educacao;8471;"Desconhecido
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;23;nenhum;alugada;2;qualificado;1;1;0;1
+21;existentes/pagos;veiculo novo;2782;500<=X<1000;4<=X<7;1;feminino div/dep/cas;nao;2.0;31;banco;proria;1;altamente qualificado/empresario;1;0;0;1
+18;existentes/pagos;veiculo novo;1042;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;33;nenhum;proria;1;qualificado;1;0;0;0
+15;existentes/pagos;veiculo novo;3186;>=1000;4<=X<7;2;feminino div/dep/cas;nao;3.0;20;nenhum;alugada;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo usado;2028;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;2.0;30;nenhum;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo novo;958;"<100
+";4<=X<7;2;masculino solteiro;nao;3.0;47;nenhum;proria;2;nao qualificado;2;0;0;1
+21;Atrasos anteriores;moveis;1591;100<=X<500;4<=X<7;4;masculino solteiro;nao;3.0;34;nenhum;proria;2;altamente qualificado/empresario;1;0;0;1
+12;existentes/pagos;moveis;2762;"Desconhecido
+";>=7;1;feminino div/dep/cas;nao;2.0;25;banco;proria;1;qualificado;1;1;0;0
+18;existentes/pagos;veiculo usado;2779;"<100
+";1<=X<4;1;masculino cas/viu;nao;3.0;21;nenhum;alugada;1;qualificado;1;1;0;1
+28;Critico-outros creditos;reforma;2743;"<100
+";>=7;4;masculino solteiro;nao;2.0;29;nenhum;proria;2;qualificado;1;0;0;1
+18;Critico-outros creditos;reforma;1149;>=1000;1<=X<4;4;masculino solteiro;nao;3.0;46;nenhum;proria;2;qualificado;1;0;0;1
+9;existentes/pagos;moveis;1313;"<100
+";>=7;1;masculino solteiro;nao;4.0;20;nenhum;proria;1;qualificado;1;0;0;1
+18;Critico-outros creditos;reforma casa;1190;"<100
+";Desempregado;2;feminino div/dep/cas;nao;4.0;55;nenhum;de graca;3;desempregado;2;0;0;0
+5;existentes/pagos;abrir negocio;3448;"<100
+";4<=X<7;1;masculino solteiro;nao;4.0;74;nenhum;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;outros;11328;"<100
+";1<=X<4;2;masculino solteiro;co requerente;3.0;29;banco;proria;2;altamente qualificado/empresario;1;1;0;0
+6;Critico-outros creditos;moveis;1872;"<100
+";Desempregado;4;masculino solteiro;nao;4.0;36;nenhum;de graca;3;altamente qualificado/empresario;1;1;0;1
+24;Critico-outros creditos;reforma casa;2058;"<100
+";1<=X<4;4;maculino div/dep;nao;2.0;33;nenhum;proria;2;qualificado;1;1;0;1
+9;existentes/pagos;moveis;2136;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;25;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;1484;"Desconhecido
+";1<=X<4;2;masculino cas/viu;nao;1.0;25;nenhum;proria;1;qualificado;1;1;0;0
+6;existentes/pagos;reforma casa;660;500<=X<1000;4<=X<7;2;masculino cas/viu;nao;4.0;23;nenhum;alugada;1;nao qualificado;1;0;0;1
+24;Critico-outros creditos;veiculo novo;1287;>=1000;>=7;4;feminino div/dep/cas;nao;4.0;37;nenhum;proria;2;qualificado;1;1;0;1
+42;Critico-outros creditos;reforma casa;3394;"<100
+";Desempregado;4;masculino solteiro;co requerente;4.0;65;nenhum;proria;2;desempregado;1;0;0;1
+12;todos pagos;abrir negocio;609;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;26;nenhum;proria;1;desempregado;1;0;0;0
+12;existentes/pagos;veiculo novo;1884;"<100
+";>=7;4;masculino solteiro;nao;4.0;39;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;1620;"<100
+";1<=X<4;2;feminino div/dep/cas;co requerente;3.0;30;nenhum;proria;1;qualificado;1;0;0;1
+20;Atrasos anteriores;outros;2629;"<100
+";1<=X<4;2;masculino solteiro;nao;3.0;29;banco;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;educacao;719;"<100
+";>=7;4;masculino solteiro;nao;4.0;41;banco;proria;1;nao qualificado;2;0;0;0
+48;Critico-outros creditos;moveis;5096;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;3.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+9;Critico-outros creditos;educacao;1244;"Desconhecido
+";>=7;4;feminino div/dep/cas;nao;4.0;41;nenhum;alugada;2;nao qualificado;1;0;0;1
+36;existentes/pagos;veiculo novo;1842;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;34;nenhum;proria;1;qualificado;1;1;0;0
+7;existentes/pagos;reforma;2576;"<100
+";1<=X<4;2;masculino solteiro;sim;2.0;35;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;moveis;1424;"Desconhecido
+";>=7;3;feminino div/dep/cas;nao;4.0;55;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+15;Atrasos anteriores;reforma casa;1512;>=1000;1<=X<4;3;masculino cas/viu;nao;3.0;61;loja;proria;2;qualificado;1;0;0;0
+36;Critico-outros creditos;veiculo usado;11054;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;2.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+6;existentes/pagos;reforma;518;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;1.0;29;nenhum;proria;1;qualificado;1;0;0;1
+12;sem creditos/todos pagos;moveis;2759;"<100
+";>=7;2;masculino solteiro;nao;4.0;34;nenhum;proria;2;qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;2670;"<100
+";>=7;4;masculino solteiro;nao;4.0;35;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+24;existentes/pagos;veiculo novo;4817;"<100
+";4<=X<7;2;masculino solteiro;co requerente;3.0;31;nenhum;proria;1;qualificado;1;1;0;0
+24;existentes/pagos;veiculo usado;2679;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;29;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+11;Critico-outros creditos;veiculo novo;3905;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;36;nenhum;alugada;2;qualificado;2;0;0;1
+12;existentes/pagos;veiculo usado;3386;"<100
+";>=7;3;masculino solteiro;nao;4.0;35;nenhum;de graca;1;qualificado;1;1;0;0
+6;existentes/pagos;quitar divida;343;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;27;nenhum;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;reforma;4594;"<100
+";<1;3;masculino solteiro;nao;2.0;32;nenhum;proria;1;qualificado;1;1;0;1
+36;existentes/pagos;moveis;3620;"<100
+";1<=X<4;1;masculino solteiro;sim;2.0;37;nenhum;proria;1;qualificado;2;0;0;1
+15;existentes/pagos;veiculo novo;1721;"<100
+";<1;2;masculino solteiro;nao;3.0;36;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;moveis;3017;"<100
+";<1;3;feminino div/dep/cas;nao;1.0;34;nenhum;alugada;1;altamente qualificado/empresario;1;0;0;1
+12;existentes/pagos;qualificacao;754;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;38;nenhum;proria;2;qualificado;1;0;0;1
+18;existentes/pagos;abrir negocio;1950;"<100
+";4<=X<7;4;masculino solteiro;nao;1.0;34;loja;proria;2;qualificado;1;1;0;1
+24;existentes/pagos;veiculo usado;2924;"<100
+";1<=X<4;3;masculino solteiro;sim;4.0;63;banco;proria;1;qualificado;2;1;0;1
+24;Atrasos anteriores;reforma;1659;"<100
+";<1;4;feminino div/dep/cas;nao;2.0;29;nenhum;alugada;1;nao qualificado;1;1;0;0
+48;Atrasos anteriores;reforma;7238;"Desconhecido
+";>=7;3;masculino solteiro;nao;3.0;32;banco;proria;2;qualificado;2;0;0;1
+33;Atrasos anteriores;abrir negocio;2764;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;26;nenhum;proria;2;qualificado;1;1;0;1
+24;Atrasos anteriores;veiculo usado;4679;"<100
+";4<=X<7;3;masculino solteiro;nao;3.0;35;nenhum;proria;2;nao qualificado;1;1;0;1
+24;existentes/pagos;reforma;3092;100<=X<500;<1;3;masculino cas/viu;nao;2.0;22;nenhum;alugada;1;qualificado;1;1;0;0
+6;existentes/pagos;educacao;448;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;23;nenhum;proria;1;qualificado;1;0;0;0
+9;existentes/pagos;veiculo novo;654;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;28;nenhum;proria;1;nao qualificado;1;0;0;0
+18;Critico-outros creditos;reforma;1245;"<100
+";1<=X<4;4;masculino cas/viu;nao;2.0;33;nenhum;proria;1;qualificado;1;0;0;0
+18;sem creditos/todos pagos;moveis;3114;"<100
+";<1;1;feminino div/dep/cas;nao;4.0;26;nenhum;alugada;1;qualificado;1;0;0;0
+39;existentes/pagos;veiculo usado;2569;500<=X<1000;1<=X<4;4;masculino solteiro;nao;4.0;24;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;5152;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;25;banco;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;abrir negocio;1037;100<=X<500;4<=X<7;3;masculino solteiro;nao;4.0;39;nenhum;proria;1;nao qualificado;1;0;0;1
+15;Critico-outros creditos;moveis;1478;"<100
+";>=7;4;masculino solteiro;nao;4.0;44;nenhum;proria;2;qualificado;2;1;0;1
+12;Critico-outros creditos;reforma;3573;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;1.0;23;nenhum;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;veiculo novo;1201;"<100
+";<1;4;masculino solteiro;nao;1.0;26;nenhum;proria;1;qualificado;1;0;0;1
+30;existentes/pagos;moveis;3622;>=1000;>=7;4;feminino div/dep/cas;nao;4.0;57;nenhum;alugada;2;qualificado;1;1;0;1
+15;Atrasos anteriores;moveis;960;>=1000;4<=X<7;3;feminino div/dep/cas;nao;2.0;30;nenhum;proria;2;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo novo;1163;500<=X<1000;1<=X<4;4;masculino solteiro;nao;4.0;44;nenhum;proria;1;qualificado;1;1;0;1
+6;Atrasos anteriores;veiculo novo;1209;"<100
+";Desempregado;4;masculino solteiro;nao;4.0;47;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+12;existentes/pagos;reforma;3077;"<100
+";1<=X<4;2;masculino solteiro;nao;4.0;52;nenhum;proria;1;qualificado;1;1;0;1
+24;existentes/pagos;veiculo novo;3757;"<100
+";>=7;4;feminino div/dep/cas;co requerente;4.0;62;nenhum;de graca;1;qualificado;1;1;0;1
+10;existentes/pagos;veiculo novo;1418;100<=X<500;1<=X<4;3;masculino solteiro;nao;2.0;35;nenhum;alugada;1;nao qualificado;1;0;1;1
+6;existentes/pagos;veiculo novo;3518;"<100
+";1<=X<4;2;masculino solteiro;sim;3.0;26;nenhum;alugada;1;qualificado;1;0;0;1
+12;Critico-outros creditos;reforma;1934;"<100
+";>=7;2;masculino solteiro;nao;2.0;26;nenhum;proria;2;qualificado;1;0;0;1
+27;sem creditos/todos pagos;abrir negocio;8318;"<100
+";>=7;2;feminino div/dep/cas;nao;4.0;42;nenhum;de graca;2;altamente qualificado/empresario;1;1;0;0
+6;Critico-outros creditos;reforma;1237;100<=X<500;1<=X<4;1;feminino div/dep/cas;nao;1.0;27;nenhum;proria;2;qualificado;1;0;0;1
+6;existentes/pagos;reforma;368;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;38;nenhum;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo novo;2122;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;39;nenhum;alugada;2;nao qualificado;2;0;1;1
+24;existentes/pagos;moveis;2996;"Desconhecido
+";1<=X<4;2;masculino cas/viu;nao;4.0;20;nenhum;proria;1;qualificado;1;0;0;0
+36;existentes/pagos;moveis;9034;100<=X<500;<1;4;masculino solteiro;co requerente;1.0;29;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;0
+24;Critico-outros creditos;moveis;1585;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;40;nenhum;proria;2;qualificado;1;0;0;1
+6;Critico-outros creditos;veiculo novo;1323;100<=X<500;>=7;2;maculino div/dep;nao;4.0;28;nenhum;proria;2;qualificado;2;1;0;1
+24;existentes/pagos;veiculo novo;3123;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;27;nenhum;proria;1;qualificado;1;0;0;0
+36;existentes/pagos;veiculo usado;5493;"<100
+";>=7;2;masculino solteiro;nao;4.0;42;nenhum;de graca;1;qualificado;2;0;0;1
+9;existentes/pagos;reforma;1126;100<=X<500;>=7;2;maculino div/dep;nao;4.0;49;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;reforma;1216;100<=X<500;<1;4;masculino solteiro;nao;4.0;38;banco;proria;2;qualificado;2;0;0;0
+10;existentes/pagos;veiculo novo;1309;"Desconhecido
+";1<=X<4;4;masculino solteiro;sim;4.0;27;nenhum;proria;1;nao qualificado;1;0;0;0
+15;Critico-outros creditos;veiculo usado;2360;500<=X<1000;1<=X<4;2;masculino solteiro;nao;2.0;36;nenhum;proria;1;qualificado;1;1;0;1
+15;todos pagos;veiculo novo;6850;100<=X<500;Desempregado;1;masculino solteiro;nao;2.0;34;nenhum;proria;1;altamente qualificado/empresario;2;1;0;0
+24;existentes/pagos;reforma;1413;"<100
+";1<=X<4;4;masculino cas/viu;nao;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+39;existentes/pagos;veiculo usado;8588;100<=X<500;>=7;4;masculino solteiro;nao;2.0;45;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;veiculo novo;759;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;26;nenhum;proria;1;qualificado;1;0;0;0
+36;existentes/pagos;veiculo usado;4686;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;32;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+15;existentes/pagos;abrir negocio;2687;"<100
+";4<=X<7;2;masculino solteiro;nao;4.0;26;nenhum;alugada;1;qualificado;1;1;0;1
+12;Atrasos anteriores;reforma;585;"<100
+";1<=X<4;4;masculino cas/viu;nao;4.0;20;nenhum;alugada;2;qualificado;1;0;0;1
+24;existentes/pagos;veiculo novo;2255;"Desconhecido
+";<1;4;masculino solteiro;nao;1.0;54;nenhum;proria;1;qualificado;1;0;0;1
+6;Critico-outros creditos;veiculo novo;609;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;3.0;37;nenhum;proria;2;qualificado;1;0;1;1
+6;Critico-outros creditos;veiculo novo;1361;"<100
+";<1;2;masculino solteiro;nao;4.0;40;nenhum;proria;1;nao qualificado;2;0;1;1
+36;Critico-outros creditos;moveis;7127;"<100
+";<1;2;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;2;qualificado;1;1;0;0
+6;existentes/pagos;veiculo novo;1203;100<=X<500;>=7;3;masculino solteiro;nao;2.0;43;nenhum;proria;1;qualificado;1;1;0;1
+6;Critico-outros creditos;reforma;700;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;36;nenhum;de graca;2;qualificado;1;0;0;1
+24;Critico-outros creditos;reforma casa;5507;"<100
+";>=7;3;masculino solteiro;nao;4.0;44;nenhum;de graca;2;qualificado;1;0;0;1
+18;existentes/pagos;reforma;3190;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;0
+48;sem creditos/todos pagos;moveis;7119;"<100
+";1<=X<4;3;masculino solteiro;nao;4.0;53;nenhum;de graca;2;qualificado;2;0;0;0
+24;existentes/pagos;veiculo usado;3488;100<=X<500;4<=X<7;3;feminino div/dep/cas;nao;4.0;23;nenhum;proria;1;qualificado;1;0;0;1
+18;existentes/pagos;reforma;1113;"<100
+";1<=X<4;4;feminino div/dep/cas;sim;4.0;26;nenhum;proria;1;nao qualificado;2;0;0;1
+26;existentes/pagos;veiculo usado;7966;"<100
+";<1;2;masculino solteiro;nao;3.0;30;nenhum;proria;2;qualificado;1;0;0;1
+15;Critico-outros creditos;educacao;1532;100<=X<500;1<=X<4;4;feminino div/dep/cas;nao;3.0;31;nenhum;proria;1;qualificado;1;0;0;1
+4;Critico-outros creditos;reforma;1503;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;42;nenhum;proria;2;nao qualificado;2;0;0;1
+36;existentes/pagos;reforma;2302;"<100
+";1<=X<4;4;maculino div/dep;nao;4.0;31;nenhum;alugada;1;qualificado;1;0;0;0
+6;existentes/pagos;veiculo novo;662;"<100
+";<1;3;masculino solteiro;nao;4.0;41;nenhum;proria;1;nao qualificado;2;1;0;1
+36;existentes/pagos;educacao;2273;"<100
+";4<=X<7;3;masculino solteiro;nao;1.0;32;nenhum;proria;2;qualificado;2;0;0;1
+15;existentes/pagos;veiculo novo;2631;100<=X<500;1<=X<4;2;feminino div/dep/cas;nao;4.0;28;nenhum;alugada;2;qualificado;1;1;0;0
+12;Atrasos anteriores;veiculo usado;1503;"<100
+";1<=X<4;4;masculino cas/viu;nao;4.0;41;nenhum;alugada;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;1311;100<=X<500;4<=X<7;4;masculino cas/viu;nao;3.0;26;nenhum;proria;1;qualificado;1;1;0;1
+24;existentes/pagos;reforma;3105;"Desconhecido
+";<1;4;masculino solteiro;nao;2.0;25;nenhum;proria;2;qualificado;1;0;0;1
+21;Critico-outros creditos;educacao;2319;"<100
+";<1;2;maculino div/dep;nao;1.0;33;nenhum;alugada;1;qualificado;1;0;0;0
+6;existentes/pagos;veiculo novo;1374;"Desconhecido
+";Desempregado;4;feminino div/dep/cas;nao;3.0;75;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+18;Critico-outros creditos;moveis;3612;"<100
+";>=7;3;feminino div/dep/cas;nao;4.0;37;nenhum;proria;1;qualificado;1;1;0;1
+48;existentes/pagos;veiculo novo;7763;"<100
+";>=7;4;masculino solteiro;nao;4.0;42;banco;de graca;1;altamente qualificado/empresario;1;0;0;0
+18;existentes/pagos;moveis;3049;"<100
+";<1;1;feminino div/dep/cas;nao;1.0;45;loja;proria;1;nao qualificado;1;0;0;1
+12;existentes/pagos;reforma;1534;"<100
+";<1;1;masculino cas/viu;nao;1.0;23;nenhum;alugada;1;qualificado;1;0;0;0
+24;Atrasos anteriores;veiculo novo;2032;"<100
+";>=7;4;masculino solteiro;nao;4.0;60;nenhum;de graca;2;qualificado;1;1;0;1
+30;existentes/pagos;moveis;6350;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;31;nenhum;proria;1;qualificado;1;0;0;0
+18;existentes/pagos;moveis;2864;"<100
+";1<=X<4;2;masculino solteiro;nao;1.0;34;nenhum;proria;1;nao qualificado;2;0;0;0
+12;Critico-outros creditos;veiculo novo;1255;"<100
+";>=7;4;masculino solteiro;nao;4.0;61;nenhum;proria;2;nao qualificado;1;0;0;1
+24;Atrasos anteriores;veiculo novo;1333;"<100
+";Desempregado;4;masculino solteiro;nao;2.0;43;nenhum;de graca;2;qualificado;2;0;0;0
+24;Critico-outros creditos;veiculo novo;2022;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;37;nenhum;proria;1;qualificado;1;1;0;1
+24;existentes/pagos;reforma;1552;"<100
+";4<=X<7;3;masculino solteiro;nao;1.0;32;banco;proria;1;qualificado;2;0;0;1
+12;todos pagos;reforma;626;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;24;banco;proria;1;nao qualificado;1;0;0;0
+48;Critico-outros creditos;veiculo usado;8858;"Desconhecido
+";4<=X<7;2;masculino solteiro;nao;1.0;35;nenhum;de graca;2;qualificado;1;1;0;1
+12;Critico-outros creditos;reforma casa;996;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;23;nenhum;proria;2;qualificado;1;0;0;1
+6;todos pagos;reforma;1750;500<=X<1000;>=7;2;masculino solteiro;nao;4.0;45;banco;proria;1;nao qualificado;2;0;0;1
+48;existentes/pagos;reforma;6999;"<100
+";4<=X<7;1;masculino cas/viu;sim;1.0;34;nenhum;proria;2;qualificado;1;1;0;0
+12;Critico-outros creditos;veiculo novo;1995;100<=X<500;<1;4;masculino solteiro;nao;1.0;27;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;educacao;1199;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;67;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;reforma;1331;"<100
+";<1;2;masculino solteiro;nao;1.0;22;loja;proria;1;qualificado;1;0;0;0
+18;sem creditos/todos pagos;veiculo novo;2278;100<=X<500;<1;3;feminino div/dep/cas;nao;3.0;28;nenhum;proria;2;qualificado;1;0;0;0
+21;sem creditos/todos pagos;veiculo novo;5003;"Desconhecido
+";1<=X<4;1;feminino div/dep/cas;nao;4.0;29;banco;proria;2;qualificado;1;1;0;0
+24;todos pagos;moveis;3552;"<100
+";4<=X<7;3;masculino solteiro;nao;4.0;27;banco;proria;1;qualificado;1;0;0;0
+18;Critico-outros creditos;moveis;1928;"<100
+";<1;2;masculino solteiro;nao;2.0;31;nenhum;proria;2;nao qualificado;1;0;0;0
+24;existentes/pagos;veiculo usado;2964;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;49;banco;de graca;1;qualificado;2;1;0;1
+24;todos pagos;reforma;1546;"<100
+";4<=X<7;4;masculino solteiro;sim;4.0;24;banco;alugada;1;nao qualificado;1;0;0;0
+6;Atrasos anteriores;reforma;683;"<100
+";<1;2;feminino div/dep/cas;nao;1.0;29;banco;proria;1;qualificado;1;0;0;1
+36;existentes/pagos;veiculo novo;12389;"Desconhecido
+";1<=X<4;1;masculino solteiro;nao;4.0;37;nenhum;de graca;1;qualificado;1;1;0;0
+24;Atrasos anteriores;reforma;1553;100<=X<500;4<=X<7;3;feminino div/dep/cas;nao;2.0;23;nenhum;alugada;2;qualificado;1;1;0;1
+12;existentes/pagos;veiculo novo;1372;"<100
+";4<=X<7;2;maculino div/dep;nao;3.0;36;nenhum;proria;1;qualificado;1;0;0;0
+24;Critico-outros creditos;reforma;2578;>=1000;>=7;2;masculino solteiro;nao;2.0;34;nenhum;proria;1;qualificado;1;0;0;1
+48;existentes/pagos;reforma;3979;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;1.0;41;nenhum;proria;2;qualificado;2;1;0;1
+48;existentes/pagos;reforma;6758;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;31;nenhum;proria;1;qualificado;1;1;0;0
+24;existentes/pagos;moveis;3234;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;nao qualificado;1;1;0;0
+30;Critico-outros creditos;reforma;5954;"<100
+";4<=X<7;3;masculino solteiro;co requerente;2.0;38;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;5433;"Desconhecido
+";Desempregado;2;feminino div/dep/cas;nao;4.0;26;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+15;existentes/pagos;abrir negocio;806;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;22;nenhum;proria;1;nao qualificado;1;0;0;1
+9;existentes/pagos;reforma;1082;"<100
+";>=7;4;masculino solteiro;nao;4.0;27;nenhum;proria;2;nao qualificado;1;0;0;1
+15;Critico-outros creditos;moveis;2788;"<100
+";4<=X<7;2;feminino div/dep/cas;co requerente;3.0;24;banco;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;reforma;2930;"<100
+";4<=X<7;2;feminino div/dep/cas;nao;1.0;27;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;educacao;1927;"Desconhecido
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;33;nenhum;proria;2;qualificado;1;1;0;1
+36;Critico-outros creditos;veiculo novo;2820;"<100
+";<1;4;maculino div/dep;nao;4.0;27;nenhum;proria;2;qualificado;1;0;0;0
+24;existentes/pagos;qualificacao;937;"<100
+";<1;4;masculino cas/viu;nao;3.0;27;nenhum;proria;2;nao qualificado;1;0;0;1
+18;Critico-outros creditos;veiculo novo;1056;"<100
+";>=7;3;masculino solteiro;sim;3.0;30;banco;proria;2;qualificado;1;0;0;0
+12;Critico-outros creditos;veiculo novo;3124;"<100
+";<1;1;masculino solteiro;nao;3.0;49;banco;proria;2;nao qualificado;2;0;0;1
+9;existentes/pagos;moveis;1388;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;26;nenhum;alugada;1;qualificado;1;0;0;1
+36;existentes/pagos;reforma casa;2384;"<100
+";<1;4;masculino solteiro;nao;1.0;33;nenhum;alugada;1;nao qualificado;1;0;0;0
+12;existentes/pagos;veiculo novo;2133;"Desconhecido
+";>=7;4;feminino div/dep/cas;nao;4.0;52;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+18;existentes/pagos;moveis;2039;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;4.0;20;banco;alugada;1;qualificado;1;0;0;0
+9;Critico-outros creditos;veiculo novo;2799;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;36;nenhum;alugada;2;qualificado;2;0;0;1
+12;existentes/pagos;moveis;1289;"<100
+";1<=X<4;4;masculino solteiro;sim;1.0;21;nenhum;proria;1;nao qualificado;1;0;0;1
+18;existentes/pagos;quitar divida;1217;"<100
+";1<=X<4;4;masculino cas/viu;nao;3.0;47;nenhum;proria;1;nao qualificado;1;1;0;0
+12;Critico-outros creditos;moveis;2246;"<100
+";>=7;3;masculino solteiro;nao;3.0;60;nenhum;proria;2;qualificado;1;0;0;0
+12;Critico-outros creditos;reforma;385;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;3.0;58;nenhum;proria;4;nao qualificado;1;1;0;1
+24;Atrasos anteriores;veiculo novo;1965;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;42;nenhum;alugada;2;qualificado;1;1;0;1
+21;existentes/pagos;abrir negocio;1572;>=1000;>=7;4;feminino div/dep/cas;nao;4.0;36;banco;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;veiculo novo;2718;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;4.0;20;nenhum;alugada;1;nao qualificado;1;1;0;0
+24;todos pagos;outros;1358;"Desconhecido
+";>=7;4;masculino solteiro;nao;3.0;40;loja;proria;1;altamente qualificado/empresario;1;1;0;0
+6;todos pagos;veiculo novo;931;100<=X<500;<1;1;feminino div/dep/cas;nao;1.0;32;loja;proria;1;nao qualificado;1;0;0;0
+24;existentes/pagos;veiculo novo;1442;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;2;qualificado;1;0;0;0
+24;sem creditos/todos pagos;abrir negocio;4241;"<100
+";1<=X<4;1;masculino solteiro;nao;4.0;36;nenhum;proria;3;nao qualificado;1;1;0;0
+18;Critico-outros creditos;veiculo novo;2775;"<100
+";4<=X<7;2;masculino solteiro;nao;2.0;31;banco;proria;2;qualificado;1;0;0;0
+24;Atrasos anteriores;abrir negocio;3863;"<100
+";1<=X<4;1;masculino solteiro;nao;2.0;32;nenhum;de graca;1;qualificado;1;0;0;1
+7;existentes/pagos;reforma;2329;"<100
+";<1;1;feminino div/dep/cas;sim;1.0;45;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;moveis;918;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;1.0;30;nenhum;proria;1;qualificado;1;0;0;0
+24;todos pagos;educacao;1837;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;34;banco;de graca;1;nao qualificado;1;0;0;0
+36;existentes/pagos;moveis;3349;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;28;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+10;existentes/pagos;moveis;1275;"<100
+";<1;4;feminino div/dep/cas;nao;2.0;23;nenhum;proria;1;qualificado;1;0;0;1
+24;todos pagos;moveis;2828;500<=X<1000;1<=X<4;4;masculino solteiro;nao;4.0;22;loja;proria;1;qualificado;1;1;0;1
+24;Critico-outros creditos;abrir negocio;4526;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;74;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+36;existentes/pagos;reforma;2671;100<=X<500;1<=X<4;4;feminino div/dep/cas;co requerente;4.0;50;nenhum;de graca;1;qualificado;1;0;0;0
+18;existentes/pagos;reforma;2051;"<100
+";<1;4;masculino solteiro;nao;1.0;33;nenhum;proria;1;qualificado;1;0;0;1
+15;existentes/pagos;veiculo usado;1300;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;45;banco;de graca;1;qualificado;2;0;0;1
+12;existentes/pagos;quitar divida;741;100<=X<500;Desempregado;4;feminino div/dep/cas;nao;3.0;22;nenhum;proria;1;qualificado;1;0;0;0
+10;existentes/pagos;veiculo novo;1240;100<=X<500;>=7;1;feminino div/dep/cas;nao;4.0;48;nenhum;de graca;1;nao qualificado;2;0;0;0
+21;existentes/pagos;reforma;3357;>=1000;<1;4;feminino div/dep/cas;nao;2.0;29;banco;proria;1;qualificado;1;0;0;1
+24;todos pagos;veiculo usado;3632;"<100
+";1<=X<4;1;feminino div/dep/cas;sim;4.0;22;banco;alugada;1;qualificado;1;0;1;1
+18;Atrasos anteriores;moveis;1808;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;1.0;22;nenhum;proria;1;qualificado;1;0;0;0
+48;sem creditos/todos pagos;abrir negocio;12204;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;2.0;48;banco;proria;1;altamente qualificado/empresario;1;1;0;1
+60;Atrasos anteriores;reforma;9157;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;2.0;27;nenhum;de graca;1;altamente qualificado/empresario;1;0;0;1
+6;Critico-outros creditos;veiculo novo;3676;"<100
+";1<=X<4;1;masculino solteiro;nao;3.0;37;nenhum;alugada;3;qualificado;2;0;0;1
+30;existentes/pagos;moveis;3441;100<=X<500;1<=X<4;2;feminino div/dep/cas;co requerente;4.0;21;nenhum;alugada;1;qualificado;1;0;0;0
+12;existentes/pagos;veiculo novo;640;"<100
+";1<=X<4;4;maculino div/dep;nao;2.0;49;nenhum;proria;1;nao qualificado;1;0;0;1
+21;Critico-outros creditos;abrir negocio;3652;"<100
+";4<=X<7;2;masculino solteiro;nao;3.0;27;nenhum;proria;2;qualificado;1;0;0;1
+18;Critico-outros creditos;veiculo novo;1530;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;32;banco;proria;2;qualificado;1;0;0;0
+48;existentes/pagos;abrir negocio;3914;"Desconhecido
+";1<=X<4;4;maculino div/dep;nao;2.0;38;banco;proria;1;qualificado;1;0;0;0
+12;existentes/pagos;moveis;1858;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;22;nenhum;alugada;1;qualificado;1;0;0;1
+18;existentes/pagos;reforma;2600;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;65;nenhum;de graca;2;qualificado;1;0;0;0
+15;existentes/pagos;reforma;1979;"Desconhecido
+";>=7;4;masculino solteiro;nao;2.0;35;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;moveis;2116;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;41;nenhum;proria;1;qualificado;1;1;0;1
+9;todos pagos;veiculo novo;1437;100<=X<500;4<=X<7;2;masculino solteiro;nao;3.0;29;nenhum;proria;1;qualificado;1;0;0;0
+42;Critico-outros creditos;moveis;4042;500<=X<1000;1<=X<4;4;masculino solteiro;nao;4.0;36;nenhum;proria;2;qualificado;1;1;0;1
+9;existentes/pagos;educacao;3832;"Desconhecido
+";>=7;1;masculino solteiro;nao;4.0;64;nenhum;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;reforma;3660;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;4.0;28;nenhum;proria;1;qualificado;1;0;0;1
+18;todos pagos;moveis;1553;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;44;banco;proria;1;qualificado;1;0;0;0
+15;existentes/pagos;reforma;1444;"Desconhecido
+";<1;4;masculino solteiro;nao;1.0;23;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;moveis;1980;"<100
+";<1;2;feminino div/dep/cas;co requerente;2.0;19;nenhum;alugada;2;qualificado;1;0;0;0
+24;existentes/pagos;veiculo novo;1355;"<100
+";<1;3;feminino div/dep/cas;nao;4.0;25;nenhum;proria;1;nao qualificado;1;1;0;0
+12;existentes/pagos;educacao;1393;"<100
+";>=7;4;masculino solteiro;nao;4.0;47;banco;proria;3;qualificado;2;1;0;1
+24;existentes/pagos;reforma;1376;500<=X<1000;4<=X<7;4;feminino div/dep/cas;nao;1.0;28;nenhum;proria;1;qualificado;1;0;0;1
+60;Atrasos anteriores;reforma;15653;"<100
+";4<=X<7;2;masculino solteiro;nao;4.0;21;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;reforma;1493;"<100
+";<1;4;feminino div/dep/cas;nao;3.0;34;nenhum;proria;1;qualificado;2;0;0;1
+42;Atrasos anteriores;reforma;4370;"<100
+";4<=X<7;3;masculino solteiro;nao;2.0;26;banco;proria;2;qualificado;2;1;0;0
+18;existentes/pagos;educacao;750;"<100
+";Desempregado;4;feminino div/dep/cas;nao;1.0;27;nenhum;proria;1;desempregado;1;0;0;0
+15;existentes/pagos;reforma casa;1308;"<100
+";>=7;4;masculino solteiro;nao;4.0;38;nenhum;proria;2;nao qualificado;1;0;0;1
+15;existentes/pagos;educacao;4623;100<=X<500;1<=X<4;3;masculino solteiro;nao;2.0;40;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+24;Critico-outros creditos;reforma;1851;"<100
+";4<=X<7;4;masculino cas/viu;sim;2.0;33;nenhum;proria;2;qualificado;1;1;0;1
+18;Critico-outros creditos;reforma;1880;"<100
+";4<=X<7;4;masculino cas/viu;nao;1.0;32;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+36;Atrasos anteriores;abrir negocio;7980;"Desconhecido
+";<1;4;masculino solteiro;nao;4.0;27;nenhum;alugada;2;qualificado;1;1;0;0
+30;sem creditos/todos pagos;moveis;4583;"<100
+";1<=X<4;2;maculino div/dep;sim;2.0;32;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;1386;500<=X<1000;1<=X<4;2;feminino div/dep/cas;nao;2.0;26;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;veiculo novo;947;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;38;banco;de graca;1;qualificado;2;0;0;0
+48;existentes/pagos;educacao;7476;"<100
+";4<=X<7;4;masculino solteiro;nao;1.0;50;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;1922;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;37;nenhum;proria;1;nao qualificado;1;0;0;0
+24;existentes/pagos;veiculo novo;2303;"<100
+";>=7;4;masculino solteiro;co requerente;1.0;45;nenhum;proria;1;qualificado;1;0;0;0
+36;Atrasos anteriores;veiculo novo;8086;100<=X<500;>=7;2;masculino solteiro;nao;4.0;42;nenhum;proria;4;altamente qualificado/empresario;1;1;0;0
+24;Critico-outros creditos;veiculo usado;2346;"<100
+";4<=X<7;4;masculino solteiro;nao;3.0;35;nenhum;proria;2;qualificado;1;1;0;1
+14;existentes/pagos;veiculo novo;3973;"<100
+";Desempregado;1;masculino solteiro;nao;4.0;22;nenhum;de graca;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;888;"<100
+";>=7;4;masculino solteiro;nao;4.0;41;banco;proria;1;nao qualificado;2;0;0;0
+48;existentes/pagos;reforma;10222;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;3.0;37;loja;proria;1;qualificado;1;1;0;1
+30;sem creditos/todos pagos;abrir negocio;4221;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;1.0;28;nenhum;proria;2;qualificado;1;0;0;1
+18;Critico-outros creditos;moveis;6361;"<100
+";>=7;2;masculino solteiro;nao;1.0;41;nenhum;proria;1;qualificado;1;1;0;1
+12;existentes/pagos;reforma;1297;"<100
+";1<=X<4;3;masculino cas/viu;nao;4.0;23;nenhum;alugada;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;900;"Desconhecido
+";1<=X<4;4;masculino cas/viu;nao;2.0;23;nenhum;proria;1;qualificado;1;0;0;0
+21;existentes/pagos;moveis;2241;"<100
+";>=7;4;masculino solteiro;nao;2.0;50;nenhum;proria;2;qualificado;1;0;0;1
+6;Atrasos anteriores;moveis;1050;"<100
+";Desempregado;4;masculino solteiro;nao;1.0;35;loja;proria;2;altamente qualificado/empresario;1;1;0;1
+6;Critico-outros creditos;educacao;1047;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;4.0;50;nenhum;proria;1;nao qualificado;1;0;0;1
+24;Critico-outros creditos;outros;6314;"<100
+";Desempregado;4;masculino solteiro;co requerente;2.0;27;banco;proria;2;altamente qualificado/empresario;1;1;0;1
+30;todos pagos;moveis;3496;>=1000;1<=X<4;4;masculino solteiro;nao;2.0;34;loja;proria;1;qualificado;2;1;0;1
+48;todos pagos;abrir negocio;3609;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;1.0;27;loja;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo novo;4843;"<100
+";>=7;3;masculino solteiro;co requerente;4.0;43;nenhum;alugada;2;qualificado;1;1;0;0
+30;Critico-outros creditos;reforma;3017;"<100
+";>=7;4;masculino solteiro;nao;4.0;47;nenhum;proria;1;qualificado;1;0;0;1
+24;Critico-outros creditos;abrir negocio;4139;100<=X<500;1<=X<4;3;masculino solteiro;nao;3.0;27;nenhum;proria;2;nao qualificado;1;1;0;1
+36;existentes/pagos;abrir negocio;5742;100<=X<500;4<=X<7;2;masculino solteiro;nao;2.0;31;nenhum;proria;2;qualificado;1;1;0;1
+60;existentes/pagos;veiculo novo;10366;"<100
+";>=7;2;masculino solteiro;nao;4.0;42;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+6;Critico-outros creditos;veiculo novo;2080;500<=X<1000;1<=X<4;1;masculino cas/viu;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;1
+21;Atrasos anteriores;abrir negocio;2580;500<=X<1000;<1;4;masculino solteiro;nao;2.0;41;banco;proria;1;nao qualificado;2;0;0;0
+24;Critico-outros creditos;moveis;5150;"<100
+";>=7;4;masculino solteiro;nao;4.0;33;nenhum;proria;1;qualificado;1;1;0;1
+72;existentes/pagos;reforma;5595;100<=X<500;1<=X<4;2;masculino cas/viu;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;reforma;2384;"<100
+";>=7;4;masculino solteiro;nao;4.0;64;banco;alugada;1;nao qualificado;1;0;0;1
+18;existentes/pagos;reforma;1453;"<100
+";<1;3;feminino div/dep/cas;nao;1.0;26;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;educacao;1538;"<100
+";<1;1;feminino div/dep/cas;nao;2.0;56;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;2279;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;37;nenhum;de graca;1;qualificado;1;1;0;1
+15;Atrasos anteriores;reforma;1478;"<100
+";1<=X<4;4;masculino cas/viu;nao;3.0;33;banco;proria;2;qualificado;1;0;0;1
+24;Critico-outros creditos;reforma;5103;"<100
+";<1;3;masculino cas/viu;nao;3.0;47;nenhum;de graca;3;qualificado;1;1;0;1
+36;Atrasos anteriores;abrir negocio;9857;100<=X<500;4<=X<7;1;masculino solteiro;nao;3.0;31;nenhum;proria;2;nao qualificado;2;1;0;1
+60;existentes/pagos;veiculo novo;6527;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;34;nenhum;de graca;1;qualificado;2;1;0;1
+10;Critico-outros creditos;reforma;1347;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;2.0;27;nenhum;proria;2;qualificado;1;1;0;1
+36;Atrasos anteriores;veiculo novo;2862;100<=X<500;>=7;4;masculino solteiro;nao;3.0;30;nenhum;de graca;1;qualificado;1;0;0;1
+9;existentes/pagos;reforma;2753;100<=X<500;>=7;3;masculino solteiro;co requerente;4.0;35;nenhum;proria;1;qualificado;1;1;0;1
+12;existentes/pagos;veiculo novo;3651;>=1000;1<=X<4;1;masculino solteiro;nao;3.0;31;nenhum;proria;1;qualificado;2;0;0;1
+15;Critico-outros creditos;moveis;975;"<100
+";1<=X<4;2;maculino div/dep;nao;3.0;25;nenhum;proria;2;qualificado;1;0;0;1
+15;existentes/pagos;reforma casa;2631;100<=X<500;1<=X<4;3;feminino div/dep/cas;nao;2.0;25;nenhum;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;reforma;2896;100<=X<500;<1;2;masculino solteiro;nao;1.0;29;nenhum;proria;1;qualificado;1;0;0;1
+6;Critico-outros creditos;veiculo novo;4716;"Desconhecido
+";<1;1;masculino solteiro;nao;3.0;44;nenhum;proria;2;nao qualificado;2;0;0;1
+24;existentes/pagos;reforma;2284;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;28;nenhum;proria;1;qualificado;1;1;0;1
+6;existentes/pagos;veiculo usado;1236;500<=X<1000;1<=X<4;2;masculino solteiro;nao;4.0;50;nenhum;alugada;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;1103;"<100
+";4<=X<7;4;masculino solteiro;sim;3.0;29;nenhum;proria;2;qualificado;1;0;1;1
+12;Critico-outros creditos;veiculo novo;926;"<100
+";Desempregado;1;feminino div/dep/cas;nao;2.0;38;nenhum;proria;1;desempregado;1;0;0;1
+18;Critico-outros creditos;reforma;1800;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;24;nenhum;proria;2;qualificado;1;0;0;1
+15;existentes/pagos;educacao;1905;"<100
+";>=7;4;masculino solteiro;nao;4.0;40;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;moveis;1123;500<=X<1000;1<=X<4;4;feminino div/dep/cas;nao;4.0;29;nenhum;alugada;1;nao qualificado;1;0;0;0
+48;Critico-outros creditos;veiculo usado;6331;"<100
+";>=7;4;masculino solteiro;nao;4.0;46;nenhum;de graca;2;qualificado;1;1;0;0
+24;existentes/pagos;reforma;1377;100<=X<500;>=7;4;feminino div/dep/cas;nao;2.0;47;nenhum;de graca;1;qualificado;1;1;0;1
+30;Atrasos anteriores;abrir negocio;2503;100<=X<500;>=7;4;masculino solteiro;nao;2.0;41;loja;proria;2;qualificado;1;0;0;1
+27;existentes/pagos;abrir negocio;2528;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;32;nenhum;proria;1;qualificado;2;1;0;1
+15;existentes/pagos;veiculo novo;5324;500<=X<1000;>=7;1;feminino div/dep/cas;nao;4.0;35;nenhum;de graca;1;qualificado;1;0;0;1
+48;existentes/pagos;veiculo novo;6560;100<=X<500;4<=X<7;3;masculino solteiro;nao;2.0;24;nenhum;proria;1;qualificado;1;0;0;0
+12;sem creditos/todos pagos;moveis;2969;"<100
+";<1;4;feminino div/dep/cas;nao;3.0;25;nenhum;alugada;2;qualificado;1;0;0;0
+9;existentes/pagos;reforma;1206;"<100
+";>=7;4;feminino div/dep/cas;nao;4.0;25;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;reforma;2118;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;37;nenhum;proria;1;nao qualificado;2;0;0;1
+18;Critico-outros creditos;reforma;629;500<=X<1000;>=7;4;masculino solteiro;nao;3.0;32;banco;proria;2;altamente qualificado/empresario;1;1;0;1
+6;todos pagos;educacao;1198;"<100
+";>=7;4;feminino div/dep/cas;nao;4.0;35;nenhum;de graca;1;qualificado;1;0;0;0
+21;existentes/pagos;veiculo usado;2476;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;46;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+9;Critico-outros creditos;reforma;1138;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;25;nenhum;proria;2;nao qualificado;1;0;0;1
+60;existentes/pagos;veiculo novo;14027;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;27;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+30;Critico-outros creditos;veiculo usado;7596;"Desconhecido
+";>=7;1;masculino solteiro;nao;4.0;63;nenhum;proria;2;qualificado;1;0;0;1
+30;Critico-outros creditos;reforma;3077;"Desconhecido
+";>=7;3;masculino solteiro;nao;2.0;40;nenhum;proria;2;qualificado;2;1;0;1
+18;existentes/pagos;reforma;1505;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;32;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+24;Critico-outros creditos;reforma;3148;"Desconhecido
+";1<=X<4;3;masculino solteiro;nao;2.0;31;nenhum;proria;2;qualificado;1;1;0;1
+20;sem creditos/todos pagos;veiculo usado;6148;100<=X<500;>=7;3;masculino cas/viu;nao;4.0;31;banco;proria;2;qualificado;1;1;0;1
+9;sem creditos/todos pagos;reforma;1337;"<100
+";<1;4;masculino solteiro;nao;2.0;34;nenhum;proria;2;altamente qualificado/empresario;1;1;0;0
+6;todos pagos;educacao;433;>=1000;<1;4;feminino div/dep/cas;nao;2.0;24;banco;alugada;1;qualificado;2;0;0;0
+12;existentes/pagos;veiculo novo;1228;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;24;nenhum;proria;1;nao qualificado;1;0;0;0
+9;existentes/pagos;reforma;790;500<=X<1000;1<=X<4;4;feminino div/dep/cas;nao;3.0;66;nenhum;proria;1;nao qualificado;1;0;0;1
+27;existentes/pagos;veiculo novo;2570;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;3.0;21;nenhum;alugada;1;qualificado;1;0;0;0
+6;Critico-outros creditos;veiculo novo;250;>=1000;1<=X<4;2;feminino div/dep/cas;nao;2.0;41;banco;proria;2;nao qualificado;1;0;0;1
+15;Critico-outros creditos;reforma;1316;500<=X<1000;1<=X<4;2;masculino cas/viu;nao;2.0;47;nenhum;proria;2;nao qualificado;1;0;0;1
+18;existentes/pagos;reforma;1882;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;25;banco;alugada;2;qualificado;1;0;0;0
+48;todos pagos;abrir negocio;6416;"<100
+";>=7;4;feminino div/dep/cas;nao;3.0;59;nenhum;alugada;1;qualificado;1;0;0;0
+24;Critico-outros creditos;abrir negocio;1275;>=1000;1<=X<4;2;maculino div/dep;nao;4.0;36;nenhum;proria;2;qualificado;1;1;0;1
+24;Atrasos anteriores;reforma;6403;"<100
+";<1;1;masculino solteiro;nao;2.0;33;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;1987;"<100
+";1<=X<4;2;masculino solteiro;nao;4.0;21;nenhum;alugada;1;nao qualificado;2;0;0;0
+8;existentes/pagos;reforma;760;"<100
+";4<=X<7;4;feminino div/dep/cas;sim;2.0;44;nenhum;proria;1;nao qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;2603;>=1000;1<=X<4;2;feminino div/dep/cas;nao;4.0;28;nenhum;alugada;1;qualificado;1;1;0;1
+4;Critico-outros creditos;veiculo novo;3380;"<100
+";4<=X<7;1;feminino div/dep/cas;nao;1.0;37;nenhum;proria;1;qualificado;2;0;0;1
+36;todos pagos;quitar divida;3990;"Desconhecido
+";<1;3;feminino div/dep/cas;nao;2.0;29;banco;proria;1;desempregado;1;0;0;1
+24;existentes/pagos;veiculo usado;11560;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;2;altamente qualificado/empresario;1;0;0;0
+18;existentes/pagos;veiculo novo;4380;100<=X<500;1<=X<4;3;masculino solteiro;nao;4.0;35;nenhum;proria;1;nao qualificado;2;1;0;1
+6;Critico-outros creditos;veiculo novo;6761;"<100
+";4<=X<7;1;masculino solteiro;nao;3.0;45;nenhum;proria;2;altamente qualificado/empresario;2;1;0;1
+30;sem creditos/todos pagos;abrir negocio;4280;100<=X<500;1<=X<4;4;feminino div/dep/cas;nao;4.0;26;nenhum;alugada;2;nao qualificado;1;0;0;0
+24;todos pagos;veiculo novo;2325;100<=X<500;4<=X<7;2;masculino solteiro;nao;3.0;32;banco;proria;1;qualificado;1;0;0;1
+10;todos pagos;reforma;1048;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;23;loja;proria;1;nao qualificado;1;0;0;1
+21;existentes/pagos;reforma;3160;"Desconhecido
+";>=7;4;masculino solteiro;nao;3.0;41;nenhum;proria;1;qualificado;1;1;0;1
+24;todos pagos;moveis;2483;500<=X<1000;1<=X<4;4;masculino solteiro;nao;4.0;22;loja;proria;1;qualificado;1;1;0;1
+13;Critico-outros creditos;abrir negocio;1797;"<100
+";<1;3;masculino solteiro;nao;1.0;28;banco;proria;2;nao qualificado;1;0;0;1
+15;existentes/pagos;veiculo novo;2511;"<100
+";Desempregado;1;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;1274;"<100
+";<1;3;feminino div/dep/cas;nao;1.0;37;nenhum;proria;1;nao qualificado;1;0;0;0
+21;existentes/pagos;veiculo usado;5248;"Desconhecido
+";1<=X<4;1;masculino solteiro;nao;3.0;26;nenhum;proria;1;qualificado;1;0;0;1
+6;existentes/pagos;moveis;428;"<100
+";>=7;2;feminino div/dep/cas;nao;1.0;49;banco;proria;1;qualificado;1;1;0;1
+18;existentes/pagos;veiculo novo;976;"<100
+";<1;1;feminino div/dep/cas;nao;2.0;23;nenhum;proria;1;nao qualificado;1;0;0;0
+12;existentes/pagos;abrir negocio;841;100<=X<500;4<=X<7;2;feminino div/dep/cas;nao;4.0;23;nenhum;alugada;1;nao qualificado;1;0;0;1
+30;Critico-outros creditos;reforma;5771;"<100
+";4<=X<7;4;feminino div/dep/cas;nao;2.0;25;nenhum;proria;2;qualificado;1;0;0;1
+12;Atrasos anteriores;reforma casa;1555;>=1000;>=7;4;masculino solteiro;nao;4.0;55;nenhum;de graca;2;qualificado;2;0;0;0
+24;existentes/pagos;veiculo novo;1285;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;4.0;32;nenhum;alugada;1;qualificado;1;0;0;0
+6;Critico-outros creditos;veiculo novo;1299;"<100
+";1<=X<4;1;masculino solteiro;nao;1.0;74;nenhum;proria;3;desempregado;2;0;1;1
+15;Critico-outros creditos;reforma;1271;"Desconhecido
+";1<=X<4;3;masculino solteiro;nao;4.0;39;nenhum;de graca;2;qualificado;1;1;0;0
+24;existentes/pagos;veiculo novo;1393;"<100
+";1<=X<4;2;masculino solteiro;sim;2.0;31;nenhum;proria;1;qualificado;1;1;0;1
+12;Critico-outros creditos;veiculo novo;691;"<100
+";>=7;4;masculino solteiro;nao;3.0;35;nenhum;proria;2;qualificado;1;0;0;0
+15;Critico-outros creditos;veiculo novo;5045;"Desconhecido
+";>=7;1;feminino div/dep/cas;nao;4.0;59;nenhum;proria;1;qualificado;1;1;0;1
+18;Critico-outros creditos;moveis;2124;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;24;nenhum;alugada;2;qualificado;1;0;0;0
+12;existentes/pagos;reforma;2214;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;24;nenhum;proria;1;nao qualificado;1;0;0;1
+21;Critico-outros creditos;veiculo novo;12680;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;30;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+24;Critico-outros creditos;veiculo novo;2463;100<=X<500;4<=X<7;4;masculino cas/viu;nao;3.0;27;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;reforma;1155;"<100
+";>=7;3;masculino cas/viu;sim;3.0;40;banco;proria;2;nao qualificado;1;0;0;1
+30;existentes/pagos;moveis;3108;"<100
+";<1;2;maculino div/dep;nao;4.0;31;nenhum;proria;1;nao qualificado;1;0;0;0
+10;existentes/pagos;veiculo usado;2901;"Desconhecido
+";<1;1;feminino div/dep/cas;nao;4.0;31;nenhum;alugada;1;qualificado;1;0;0;1
+12;Critico-outros creditos;moveis;3617;"<100
+";>=7;1;masculino solteiro;nao;4.0;28;nenhum;alugada;3;qualificado;1;1;0;1
+12;Critico-outros creditos;reforma;1655;"<100
+";>=7;2;masculino solteiro;nao;4.0;63;nenhum;proria;2;nao qualificado;1;1;0;1
+24;existentes/pagos;veiculo usado;2812;"Desconhecido
+";>=7;2;feminino div/dep/cas;nao;4.0;26;nenhum;alugada;1;qualificado;1;0;0;1
+36;Critico-outros creditos;educacao;8065;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;25;nenhum;proria;2;altamente qualificado/empresario;1;1;0;0
+21;Critico-outros creditos;veiculo usado;3275;"<100
+";>=7;1;masculino solteiro;nao;4.0;36;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+24;Critico-outros creditos;reforma;2223;100<=X<500;>=7;4;masculino solteiro;nao;4.0;52;banco;proria;2;qualificado;1;0;0;1
+12;Critico-outros creditos;veiculo novo;1480;500<=X<1000;Desempregado;2;masculino solteiro;nao;4.0;66;banco;de graca;3;desempregado;1;0;0;1
+24;existentes/pagos;veiculo novo;1371;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;25;nenhum;alugada;1;qualificado;1;0;0;0
+36;Critico-outros creditos;veiculo novo;3535;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;37;nenhum;proria;2;qualificado;1;1;0;1
+18;existentes/pagos;reforma;3509;"<100
+";4<=X<7;4;feminino div/dep/cas;sim;1.0;25;nenhum;proria;1;qualificado;1;0;0;1
+36;Critico-outros creditos;veiculo usado;5711;>=1000;>=7;4;masculino solteiro;nao;2.0;38;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+18;existentes/pagos;reforma casa;3872;"<100
+";Desempregado;2;feminino div/dep/cas;nao;4.0;67;nenhum;proria;1;qualificado;1;1;0;1
+39;Critico-outros creditos;reforma;4933;"<100
+";4<=X<7;2;masculino solteiro;sim;2.0;25;nenhum;proria;2;qualificado;1;0;0;0
+24;Critico-outros creditos;veiculo novo;1940;>=1000;>=7;4;masculino solteiro;nao;4.0;60;nenhum;proria;1;qualificado;1;1;0;1
+12;sem creditos/todos pagos;qualificacao;1410;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;31;nenhum;proria;1;nao qualificado;1;1;0;1
+12;existentes/pagos;veiculo novo;836;100<=X<500;<1;4;feminino div/dep/cas;nao;2.0;23;banco;proria;1;nao qualificado;1;0;0;0
+20;existentes/pagos;veiculo usado;6468;"Desconhecido
+";Desempregado;1;maculino div/dep;nao;4.0;60;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+18;existentes/pagos;abrir negocio;1941;>=1000;1<=X<4;4;masculino solteiro;nao;2.0;35;nenhum;proria;1;nao qualificado;1;1;0;1
+22;existentes/pagos;reforma;2675;500<=X<1000;>=7;3;masculino solteiro;nao;4.0;40;nenhum;proria;1;qualificado;1;0;0;1
+48;Critico-outros creditos;veiculo usado;2751;"Desconhecido
+";>=7;4;masculino solteiro;nao;3.0;38;nenhum;proria;2;qualificado;2;1;0;1
+48;Atrasos anteriores;educacao;6224;"<100
+";>=7;4;masculino solteiro;nao;4.0;50;nenhum;de graca;1;qualificado;1;0;0;0
+40;Critico-outros creditos;educacao;5998;"<100
+";1<=X<4;4;masculino solteiro;nao;3.0;27;banco;proria;1;qualificado;1;1;0;0
+21;existentes/pagos;abrir negocio;1188;"<100
+";>=7;2;feminino div/dep/cas;nao;4.0;39;nenhum;proria;1;qualificado;2;0;0;0
+24;existentes/pagos;veiculo usado;6313;"Desconhecido
+";>=7;3;masculino solteiro;nao;4.0;41;nenhum;proria;1;altamente qualificado/empresario;2;1;0;1
+6;Critico-outros creditos;moveis;1221;"Desconhecido
+";1<=X<4;1;masculino cas/viu;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+24;existentes/pagos;moveis;2892;"<100
+";>=7;3;maculino div/dep;nao;4.0;51;nenhum;de graca;1;qualificado;1;0;0;1
+24;existentes/pagos;moveis;3062;500<=X<1000;>=7;4;masculino solteiro;nao;3.0;32;nenhum;alugada;1;qualificado;1;1;0;1
+9;existentes/pagos;moveis;2301;100<=X<500;<1;2;feminino div/dep/cas;nao;4.0;22;nenhum;alugada;1;qualificado;1;0;0;1
+18;existentes/pagos;veiculo usado;7511;"Desconhecido
+";>=7;1;masculino solteiro;nao;4.0;51;nenhum;de graca;1;qualificado;2;1;0;0
+12;Critico-outros creditos;moveis;1258;"<100
+";<1;2;feminino div/dep/cas;nao;4.0;22;nenhum;alugada;2;nao qualificado;1;0;0;1
+9;existentes/pagos;veiculo novo;1549;"Desconhecido
+";<1;4;masculino solteiro;nao;2.0;35;nenhum;proria;1;desempregado;1;0;0;1
+24;Critico-outros creditos;educacao;1597;"<100
+";>=7;4;masculino solteiro;nao;4.0;54;nenhum;de graca;2;qualificado;2;0;0;1
+18;Critico-outros creditos;reforma;1795;"<100
+";>=7;3;feminino div/dep/cas;sim;4.0;48;banco;alugada;2;nao qualificado;1;1;0;1
+20;Critico-outros creditos;moveis;4272;"<100
+";>=7;1;feminino div/dep/cas;nao;4.0;24;nenhum;proria;2;qualificado;1;0;0;1
+12;Critico-outros creditos;reforma;976;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;35;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;veiculo novo;7472;"Desconhecido
+";Desempregado;1;feminino div/dep/cas;nao;2.0;24;nenhum;alugada;1;desempregado;1;0;0;1
+36;existentes/pagos;veiculo novo;9271;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;24;nenhum;proria;1;qualificado;1;1;0;0
+6;existentes/pagos;reforma;590;"<100
+";<1;3;masculino cas/viu;nao;3.0;26;nenhum;proria;1;nao qualificado;1;0;1;1
+12;Critico-outros creditos;reforma;930;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;65;nenhum;proria;4;qualificado;1;0;0;1
+42;todos pagos;veiculo usado;9283;"<100
+";Desempregado;1;masculino solteiro;nao;2.0;55;banco;de graca;1;altamente qualificado/empresario;1;1;0;1
+15;sem creditos/todos pagos;veiculo novo;1778;"<100
+";<1;2;feminino div/dep/cas;nao;1.0;26;nenhum;alugada;2;desempregado;1;0;0;0
+8;existentes/pagos;abrir negocio;907;"<100
+";<1;3;masculino cas/viu;nao;2.0;26;nenhum;proria;1;qualificado;1;1;0;1
+6;existentes/pagos;reforma;484;"<100
+";4<=X<7;3;masculino cas/viu;sim;3.0;28;banco;proria;1;nao qualificado;1;0;0;1
+36;Critico-outros creditos;veiculo usado;9629;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;24;nenhum;proria;2;qualificado;1;1;0;0
+48;existentes/pagos;quitar divida;3051;"<100
+";1<=X<4;3;masculino solteiro;nao;4.0;54;nenhum;proria;1;qualificado;1;0;0;0
+48;existentes/pagos;veiculo novo;3931;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;46;nenhum;de graca;1;qualificado;2;0;0;0
+36;Atrasos anteriores;veiculo novo;7432;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;2.0;54;nenhum;alugada;1;qualificado;1;0;0;1
+6;existentes/pagos;quitar divida;1338;500<=X<1000;1<=X<4;1;maculino div/dep;nao;4.0;62;nenhum;proria;1;qualificado;1;0;0;1
+6;Critico-outros creditos;reforma;1554;"<100
+";4<=X<7;1;feminino div/dep/cas;nao;2.0;24;nenhum;alugada;2;qualificado;1;1;0;1
+36;existentes/pagos;outros;15857;"<100
+";Desempregado;2;maculino div/dep;co requerente;3.0;43;nenhum;proria;1;altamente qualificado/empresario;1;0;0;1
+18;existentes/pagos;reforma;1345;"<100
+";1<=X<4;4;masculino cas/viu;nao;3.0;26;banco;proria;1;qualificado;1;0;0;0
+12;existentes/pagos;veiculo novo;1101;"<100
+";1<=X<4;3;masculino cas/viu;nao;2.0;27;nenhum;proria;2;qualificado;1;1;0;1
+12;existentes/pagos;reforma;3016;"<100
+";1<=X<4;3;masculino cas/viu;nao;1.0;24;nenhum;proria;1;qualificado;1;0;0;1
+36;existentes/pagos;moveis;2712;"<100
+";>=7;2;masculino solteiro;nao;2.0;41;banco;proria;1;qualificado;2;0;0;0
+8;Critico-outros creditos;veiculo novo;731;"<100
+";>=7;4;masculino solteiro;nao;4.0;47;nenhum;proria;2;nao qualificado;1;0;0;1
+18;Critico-outros creditos;moveis;3780;"<100
+";<1;3;maculino div/dep;nao;2.0;35;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+21;Critico-outros creditos;veiculo novo;1602;"<100
+";>=7;4;masculino cas/viu;nao;3.0;30;nenhum;proria;2;qualificado;1;1;0;1
+18;Critico-outros creditos;veiculo novo;3966;"<100
+";>=7;1;feminino div/dep/cas;nao;4.0;33;banco;alugada;3;qualificado;1;1;0;0
+18;sem creditos/todos pagos;abrir negocio;4165;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;36;loja;proria;2;qualificado;2;0;0;0
+36;existentes/pagos;veiculo usado;8335;"Desconhecido
+";>=7;3;masculino solteiro;nao;4.0;47;nenhum;de graca;1;qualificado;1;0;0;0
+48;Atrasos anteriores;abrir negocio;6681;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;4.0;38;nenhum;de graca;1;qualificado;2;1;0;1
+24;Atrasos anteriores;abrir negocio;2375;500<=X<1000;1<=X<4;4;masculino solteiro;nao;2.0;44;nenhum;proria;2;qualificado;2;1;0;1
+18;existentes/pagos;veiculo novo;1216;"<100
+";<1;4;feminino div/dep/cas;nao;3.0;23;nenhum;alugada;1;qualificado;1;1;0;0
+45;sem creditos/todos pagos;abrir negocio;11816;"<100
+";>=7;2;masculino solteiro;nao;4.0;29;nenhum;alugada;2;qualificado;1;0;0;0
+15;existentes/pagos;reforma;2327;"<100
+";<1;2;feminino div/dep/cas;nao;3.0;25;nenhum;proria;1;nao qualificado;1;0;0;0
+12;sem creditos/todos pagos;veiculo novo;1082;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;48;banco;proria;2;qualificado;1;0;0;0
+12;existentes/pagos;reforma;886;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;21;nenhum;proria;1;qualificado;1;0;0;1
+4;existentes/pagos;moveis;601;"<100
+";<1;1;feminino div/dep/cas;nao;3.0;23;nenhum;alugada;1;nao qualificado;2;0;0;1
+24;Critico-outros creditos;veiculo usado;2957;"<100
+";>=7;4;masculino solteiro;nao;4.0;63;nenhum;proria;2;qualificado;1;1;0;1
+24;Critico-outros creditos;reforma;2611;"<100
+";>=7;4;masculino cas/viu;co requerente;3.0;46;nenhum;proria;2;qualificado;1;0;0;1
+36;existentes/pagos;moveis;5179;"<100
+";4<=X<7;4;masculino solteiro;nao;2.0;29;nenhum;proria;1;qualificado;1;0;0;0
+21;Atrasos anteriores;veiculo usado;2993;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;28;loja;proria;2;nao qualificado;1;0;0;1
+18;existentes/pagos;reforma casa;1943;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;23;nenhum;proria;1;qualificado;1;0;0;0
+18;existentes/pagos;moveis;3422;"<100
+";>=7;4;masculino solteiro;nao;4.0;47;banco;proria;3;qualificado;2;1;0;1
+21;existentes/pagos;moveis;3976;"Desconhecido
+";4<=X<7;2;masculino solteiro;nao;3.0;35;nenhum;proria;1;qualificado;1;1;0;1
+18;existentes/pagos;veiculo novo;6761;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;4.0;68;nenhum;alugada;2;qualificado;1;0;0;0
+24;existentes/pagos;veiculo novo;1249;"<100
+";<1;4;masculino cas/viu;nao;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;reforma;1364;"<100
+";4<=X<7;3;masculino solteiro;nao;4.0;59;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;reforma;709;"<100
+";>=7;4;masculino solteiro;nao;4.0;57;loja;proria;1;nao qualificado;1;0;0;0
+20;Critico-outros creditos;veiculo novo;2235;"<100
+";1<=X<4;4;masculino cas/viu;sim;2.0;33;banco;alugada;2;qualificado;1;0;1;0
+24;Critico-outros creditos;veiculo usado;4042;"Desconhecido
+";4<=X<7;3;masculino solteiro;nao;4.0;43;nenhum;proria;2;qualificado;1;1;0;1
+15;Critico-outros creditos;reforma;1471;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;35;nenhum;de graca;2;qualificado;1;1;0;1
+18;todos pagos;veiculo novo;1442;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;32;nenhum;de graca;2;nao qualificado;2;0;0;0
+36;Atrasos anteriores;veiculo novo;10875;"<100
+";>=7;2;masculino solteiro;nao;2.0;45;nenhum;proria;2;qualificado;2;1;0;1
+24;existentes/pagos;veiculo novo;1474;100<=X<500;<1;4;masculino cas/viu;nao;3.0;33;nenhum;proria;1;qualificado;1;1;0;1
+10;existentes/pagos;qualificacao;894;"Desconhecido
+";4<=X<7;4;feminino div/dep/cas;nao;3.0;40;nenhum;proria;1;qualificado;1;1;0;1
+15;Critico-outros creditos;moveis;3343;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;28;nenhum;de graca;1;qualificado;1;1;0;1
+15;existentes/pagos;veiculo novo;3959;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;29;nenhum;proria;1;qualificado;1;1;0;0
+9;existentes/pagos;veiculo novo;3577;100<=X<500;1<=X<4;1;masculino solteiro;sim;2.0;26;nenhum;alugada;1;qualificado;2;0;1;1
+24;Critico-outros creditos;veiculo usado;5804;>=1000;1<=X<4;4;masculino solteiro;nao;2.0;27;nenhum;proria;2;qualificado;1;0;0;1
+18;Atrasos anteriores;abrir negocio;2169;"<100
+";1<=X<4;4;masculino cas/viu;nao;2.0;28;nenhum;proria;1;qualificado;1;1;0;0
+24;existentes/pagos;reforma;2439;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;35;nenhum;proria;1;qualificado;1;1;0;0
+27;Critico-outros creditos;moveis;4526;>=1000;<1;4;masculino solteiro;nao;2.0;32;loja;proria;2;nao qualificado;2;1;0;1
+10;existentes/pagos;moveis;2210;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;25;banco;alugada;1;nao qualificado;1;0;0;0
+15;existentes/pagos;moveis;2221;500<=X<1000;1<=X<4;2;feminino div/dep/cas;nao;4.0;20;nenhum;alugada;1;qualificado;1;0;0;1
+18;existentes/pagos;reforma;2389;"<100
+";<1;4;feminino div/dep/cas;nao;1.0;27;loja;proria;1;qualificado;1;0;0;1
+12;Critico-outros creditos;moveis;3331;"<100
+";>=7;2;masculino solteiro;nao;4.0;42;loja;proria;1;qualificado;1;0;0;1
+36;existentes/pagos;abrir negocio;7409;"Desconhecido
+";>=7;3;masculino solteiro;nao;2.0;37;nenhum;proria;2;qualificado;1;0;0;1
+12;existentes/pagos;moveis;652;"<100
+";>=7;4;feminino div/dep/cas;nao;4.0;24;nenhum;alugada;1;qualificado;1;0;0;1
+36;Atrasos anteriores;moveis;7678;500<=X<1000;4<=X<7;2;feminino div/dep/cas;nao;4.0;40;nenhum;proria;2;qualificado;1;1;0;1
+6;Critico-outros creditos;veiculo novo;1343;"<100
+";>=7;1;masculino solteiro;nao;4.0;46;nenhum;proria;2;qualificado;2;0;1;1
+24;Critico-outros creditos;abrir negocio;1382;100<=X<500;4<=X<7;4;masculino solteiro;nao;1.0;26;nenhum;proria;2;qualificado;1;1;0;1
+15;existentes/pagos;quitar divida;874;"Desconhecido
+";<1;4;feminino div/dep/cas;nao;1.0;24;nenhum;proria;1;qualificado;1;0;0;1
+12;existentes/pagos;moveis;3590;"<100
+";1<=X<4;2;masculino solteiro;co requerente;2.0;29;nenhum;proria;1;nao qualificado;2;0;0;1
+11;Critico-outros creditos;veiculo novo;1322;>=1000;1<=X<4;4;feminino div/dep/cas;nao;4.0;40;nenhum;proria;2;qualificado;1;0;0;1
+18;todos pagos;reforma;1940;"<100
+";<1;3;masculino solteiro;co requerente;4.0;36;banco;de graca;1;altamente qualificado/empresario;1;1;0;1
+36;existentes/pagos;reforma;3595;"<100
+";>=7;4;masculino solteiro;nao;2.0;28;nenhum;proria;1;qualificado;1;0;0;1
+9;existentes/pagos;veiculo novo;1422;"<100
+";<1;3;masculino solteiro;nao;2.0;27;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;0
+30;Critico-outros creditos;reforma;6742;"Desconhecido
+";4<=X<7;2;masculino solteiro;nao;3.0;36;nenhum;proria;2;qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;7814;"<100
+";4<=X<7;3;masculino solteiro;nao;3.0;38;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+24;existentes/pagos;veiculo usado;9277;"Desconhecido
+";1<=X<4;2;maculino div/dep;nao;4.0;48;nenhum;de graca;1;qualificado;1;1;0;1
+30;Critico-outros creditos;veiculo novo;2181;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;36;nenhum;proria;2;qualificado;1;0;0;1
+18;Critico-outros creditos;reforma;1098;"<100
+";Desempregado;4;feminino div/dep/cas;nao;4.0;65;nenhum;proria;2;desempregado;1;0;0;1
+24;existentes/pagos;moveis;4057;"<100
+";4<=X<7;3;maculino div/dep;nao;3.0;43;nenhum;proria;1;qualificado;1;1;0;0
+12;existentes/pagos;educacao;795;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;53;nenhum;proria;1;qualificado;1;0;0;0
+24;Critico-outros creditos;abrir negocio;2825;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;3.0;34;nenhum;proria;2;qualificado;2;1;0;1
+48;existentes/pagos;abrir negocio;15672;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;23;nenhum;proria;1;qualificado;1;1;0;0
+36;Critico-outros creditos;veiculo novo;6614;"<100
+";>=7;4;masculino solteiro;nao;4.0;34;nenhum;proria;2;altamente qualificado/empresario;1;1;0;1
+28;todos pagos;veiculo usado;7824;"Desconhecido
+";<1;3;masculino solteiro;sim;4.0;40;banco;alugada;2;qualificado;2;1;0;1
+27;Critico-outros creditos;abrir negocio;2442;"<100
+";>=7;4;masculino solteiro;nao;4.0;43;loja;proria;4;altamente qualificado/empresario;2;1;0;1
+15;Critico-outros creditos;reforma;1829;"<100
+";>=7;4;masculino solteiro;nao;4.0;46;nenhum;proria;2;qualificado;1;1;0;1
+12;Critico-outros creditos;veiculo novo;2171;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;38;banco;proria;2;nao qualificado;1;0;1;1
+36;Critico-outros creditos;veiculo usado;5800;"<100
+";1<=X<4;3;masculino solteiro;nao;4.0;34;nenhum;proria;2;qualificado;1;1;0;1
+18;Critico-outros creditos;reforma;1169;"Desconhecido
+";1<=X<4;4;masculino solteiro;nao;3.0;29;nenhum;proria;2;qualificado;1;1;0;1
+21;existentes/pagos;reforma;2606;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;28;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+12;Critico-outros creditos;moveis;1592;>=1000;4<=X<7;3;feminino div/dep/cas;nao;2.0;35;nenhum;proria;1;qualificado;1;0;1;1
+15;existentes/pagos;moveis;2186;"Desconhecido
+";4<=X<7;1;feminino div/dep/cas;nao;4.0;33;banco;alugada;1;nao qualificado;1;0;0;1
+18;existentes/pagos;moveis;4153;"<100
+";1<=X<4;2;masculino solteiro;co requerente;3.0;42;nenhum;proria;1;qualificado;1;0;0;0
+16;Critico-outros creditos;veiculo novo;2625;"<100
+";>=7;2;masculino solteiro;sim;4.0;43;banco;alugada;1;qualificado;1;1;0;0
+20;Critico-outros creditos;veiculo novo;3485;"Desconhecido
+";<1;2;maculino div/dep;nao;4.0;44;nenhum;proria;2;qualificado;1;1;0;1
+36;Critico-outros creditos;veiculo usado;10477;"Desconhecido
+";>=7;2;masculino solteiro;nao;4.0;42;nenhum;de graca;2;qualificado;1;0;0;1
+15;existentes/pagos;reforma;1386;"Desconhecido
+";1<=X<4;4;masculino cas/viu;nao;2.0;40;nenhum;alugada;1;qualificado;1;1;0;1
+24;existentes/pagos;reforma;1278;"<100
+";>=7;4;masculino solteiro;nao;1.0;36;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;reforma;1107;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;20;nenhum;alugada;1;altamente qualificado/empresario;2;1;0;1
+21;existentes/pagos;veiculo novo;3763;"Desconhecido
+";4<=X<7;2;masculino solteiro;co requerente;2.0;24;nenhum;proria;1;nao qualificado;1;0;1;1
+36;existentes/pagos;educacao;3711;"Desconhecido
+";1<=X<4;2;masculino cas/viu;nao;2.0;27;nenhum;proria;1;qualificado;1;0;0;1
+15;Atrasos anteriores;veiculo usado;3594;"<100
+";<1;1;feminino div/dep/cas;nao;2.0;46;nenhum;proria;2;nao qualificado;1;0;0;1
+9;existentes/pagos;veiculo novo;3195;"Desconhecido
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;33;nenhum;proria;1;nao qualificado;1;0;0;1
+36;Atrasos anteriores;reforma;4454;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;4.0;34;nenhum;proria;2;qualificado;1;0;0;1
+24;Critico-outros creditos;moveis;4736;"<100
+";<1;2;feminino div/dep/cas;nao;4.0;25;banco;proria;1;nao qualificado;1;0;0;0
+30;existentes/pagos;reforma;2991;"Desconhecido
+";>=7;2;feminino div/dep/cas;nao;4.0;25;nenhum;proria;1;qualificado;1;0;0;1
+11;existentes/pagos;abrir negocio;2142;>=1000;>=7;1;maculino div/dep;nao;2.0;28;nenhum;proria;1;qualificado;1;1;0;1
+24;todos pagos;abrir negocio;3161;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;31;nenhum;alugada;1;qualificado;1;1;0;0
+48;sem creditos/todos pagos;outros;18424;"<100
+";1<=X<4;1;feminino div/dep/cas;nao;2.0;32;banco;proria;1;altamente qualificado/empresario;1;1;1;0
+10;existentes/pagos;veiculo usado;2848;100<=X<500;1<=X<4;1;masculino solteiro;co requerente;2.0;32;nenhum;proria;1;qualificado;2;0;0;1
+6;existentes/pagos;veiculo novo;14896;"<100
+";>=7;1;masculino solteiro;nao;4.0;68;banco;proria;1;altamente qualificado/empresario;1;1;0;0
+24;existentes/pagos;moveis;2359;100<=X<500;Desempregado;1;maculino div/dep;nao;1.0;33;nenhum;proria;1;qualificado;1;0;0;0
+24;existentes/pagos;moveis;3345;"<100
+";>=7;4;masculino solteiro;nao;2.0;39;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;0
+18;Critico-outros creditos;moveis;1817;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;28;nenhum;proria;2;qualificado;1;0;0;1
+48;Atrasos anteriores;reforma;12749;500<=X<1000;4<=X<7;4;masculino solteiro;nao;1.0;37;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+9;existentes/pagos;reforma;1366;"<100
+";<1;3;feminino div/dep/cas;nao;4.0;22;nenhum;alugada;1;qualificado;1;0;0;0
+12;existentes/pagos;veiculo novo;2002;"<100
+";4<=X<7;3;masculino solteiro;nao;4.0;30;nenhum;alugada;1;qualificado;2;1;0;1
+24;todos pagos;moveis;6872;"<100
+";<1;2;maculino div/dep;nao;1.0;55;banco;proria;1;qualificado;1;1;0;0
+12;todos pagos;veiculo novo;697;"<100
+";<1;4;masculino solteiro;nao;2.0;46;banco;proria;2;qualificado;1;1;0;0
+18;Critico-outros creditos;moveis;1049;"<100
+";<1;4;feminino div/dep/cas;nao;4.0;21;nenhum;alugada;1;qualificado;1;0;0;1
+48;existentes/pagos;veiculo usado;10297;"<100
+";4<=X<7;4;masculino solteiro;nao;4.0;39;loja;de graca;3;qualificado;2;1;0;0
+30;existentes/pagos;reforma;1867;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;58;nenhum;proria;1;qualificado;1;1;0;1
+12;Atrasos anteriores;veiculo novo;1344;"<100
+";1<=X<4;4;masculino solteiro;nao;2.0;43;nenhum;proria;2;nao qualificado;2;0;0;1
+24;existentes/pagos;moveis;1747;"<100
+";<1;4;masculino solteiro;co requerente;1.0;24;nenhum;proria;1;nao qualificado;1;0;1;1
+9;existentes/pagos;reforma;1670;"<100
+";<1;4;feminino div/dep/cas;nao;2.0;22;nenhum;proria;1;qualificado;1;1;0;0
+9;Critico-outros creditos;veiculo novo;1224;"<100
+";1<=X<4;3;masculino solteiro;nao;1.0;30;nenhum;proria;2;qualificado;1;0;0;1
+12;Critico-outros creditos;reforma;522;500<=X<1000;>=7;4;masculino solteiro;nao;4.0;42;nenhum;proria;2;qualificado;2;1;0;1
+12;existentes/pagos;reforma;1498;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;1.0;23;banco;proria;1;qualificado;1;0;0;1
+30;Atrasos anteriores;reforma;1919;100<=X<500;<1;4;masculino solteiro;nao;3.0;30;loja;proria;2;altamente qualificado/empresario;1;0;0;0
+9;existentes/pagos;reforma;745;"<100
+";1<=X<4;3;feminino div/dep/cas;nao;2.0;28;nenhum;proria;1;nao qualificado;1;0;0;0
+6;existentes/pagos;reforma;2063;"<100
+";<1;4;masculino cas/viu;nao;3.0;30;nenhum;alugada;1;altamente qualificado/empresario;1;1;0;1
+60;existentes/pagos;educacao;6288;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;42;nenhum;de graca;1;qualificado;1;0;0;0
+24;Critico-outros creditos;veiculo usado;6842;"Desconhecido
+";1<=X<4;2;masculino solteiro;nao;4.0;46;nenhum;proria;2;altamente qualificado/empresario;2;1;0;1
+12;existentes/pagos;veiculo novo;3527;"Desconhecido
+";<1;2;masculino solteiro;nao;3.0;45;nenhum;proria;1;altamente qualificado/empresario;2;1;0;1
+10;existentes/pagos;veiculo novo;1546;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;31;nenhum;proria;1;nao qualificado;2;0;1;1
+24;existentes/pagos;moveis;929;"Desconhecido
+";4<=X<7;4;masculino solteiro;nao;2.0;31;loja;proria;1;qualificado;1;1;0;1
+4;Critico-outros creditos;veiculo novo;1455;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;42;nenhum;proria;3;nao qualificado;2;0;0;1
+48;sem creditos/todos pagos;veiculo novo;8358;500<=X<1000;<1;1;feminino div/dep/cas;nao;1.0;30;nenhum;proria;2;qualificado;1;0;0;1
+24;todos pagos;moveis;3349;500<=X<1000;<1;4;masculino solteiro;nao;4.0;30;nenhum;de graca;1;qualificado;2;1;0;0
+12;existentes/pagos;veiculo novo;2859;"Desconhecido
+";Desempregado;4;masculino solteiro;nao;4.0;38;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+18;existentes/pagos;moveis;1533;"<100
+";<1;4;masculino cas/viu;co requerente;1.0;43;nenhum;proria;1;nao qualificado;2;0;0;0
+24;existentes/pagos;reforma;3621;100<=X<500;>=7;2;masculino solteiro;nao;4.0;31;nenhum;proria;2;qualificado;1;0;0;0
+18;Critico-outros creditos;abrir negocio;3590;"<100
+";Desempregado;3;masculino cas/viu;nao;3.0;40;nenhum;proria;3;desempregado;2;1;0;1
+36;Atrasos anteriores;abrir negocio;2145;"<100
+";4<=X<7;2;masculino solteiro;nao;1.0;24;nenhum;proria;2;qualificado;1;1;0;0
+24;existentes/pagos;veiculo usado;4113;500<=X<1000;<1;3;feminino div/dep/cas;nao;4.0;28;nenhum;alugada;1;qualificado;1;0;0;0
+36;existentes/pagos;moveis;10974;"<100
+";Desempregado;4;feminino div/dep/cas;nao;2.0;26;nenhum;proria;2;altamente qualificado/empresario;1;1;0;0
+12;existentes/pagos;veiculo novo;1893;"<100
+";1<=X<4;4;feminino div/dep/cas;sim;4.0;29;nenhum;proria;1;qualificado;1;1;0;1
+24;Critico-outros creditos;reforma;1231;>=1000;>=7;4;feminino div/dep/cas;nao;4.0;57;nenhum;alugada;2;altamente qualificado/empresario;1;1;0;1
+30;Critico-outros creditos;reforma;3656;"Desconhecido
+";>=7;4;masculino solteiro;nao;4.0;49;loja;proria;2;nao qualificado;1;0;0;1
+9;Critico-outros creditos;reforma;1154;"<100
+";>=7;2;masculino solteiro;nao;4.0;37;nenhum;proria;3;nao qualificado;1;0;0;1
+28;existentes/pagos;veiculo novo;4006;"<100
+";1<=X<4;3;masculino solteiro;nao;2.0;45;nenhum;proria;1;nao qualificado;1;0;0;0
+6;Critico-outros creditos;reforma;1740;"<100
+";>=7;2;masculino cas/viu;nao;2.0;30;nenhum;alugada;2;qualificado;1;0;0;1
+21;Atrasos anteriores;veiculo novo;2353;"<100
+";1<=X<4;1;maculino div/dep;nao;4.0;47;nenhum;proria;2;qualificado;1;0;0;1
+15;existentes/pagos;veiculo novo;3556;"Desconhecido
+";1<=X<4;3;masculino solteiro;nao;2.0;29;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;reforma;2397;500<=X<1000;>=7;3;masculino solteiro;nao;2.0;35;banco;proria;2;qualificado;1;1;0;0
+6;existentes/pagos;reforma casa;454;"<100
+";<1;3;masculino cas/viu;nao;1.0;22;nenhum;proria;1;nao qualificado;1;0;0;1
+30;existentes/pagos;reforma;1715;"Desconhecido
+";1<=X<4;4;feminino div/dep/cas;nao;1.0;26;nenhum;proria;1;qualificado;1;0;0;1
+27;Critico-outros creditos;reforma;2520;500<=X<1000;1<=X<4;4;masculino solteiro;nao;2.0;23;nenhum;proria;2;nao qualificado;1;0;0;0
+15;existentes/pagos;reforma;3568;"<100
+";>=7;4;feminino div/dep/cas;nao;2.0;54;banco;alugada;1;altamente qualificado/empresario;1;1;0;1
+42;existentes/pagos;reforma;7166;"Desconhecido
+";4<=X<7;2;masculino cas/viu;nao;4.0;29;nenhum;alugada;1;qualificado;1;1;0;1
+11;Critico-outros creditos;veiculo novo;3939;"<100
+";1<=X<4;1;masculino solteiro;nao;2.0;40;nenhum;proria;2;nao qualificado;2;0;0;1
+15;existentes/pagos;reforma casa;1514;100<=X<500;1<=X<4;4;masculino solteiro;sim;2.0;22;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;veiculo novo;7393;"<100
+";1<=X<4;1;masculino solteiro;nao;4.0;43;nenhum;proria;1;nao qualificado;2;0;0;1
+24;todos pagos;veiculo novo;1193;"<100
+";Desempregado;1;feminino div/dep/cas;co requerente;4.0;29;nenhum;alugada;2;desempregado;1;0;0;0
+60;existentes/pagos;abrir negocio;7297;"<100
+";>=7;4;masculino solteiro;co requerente;4.0;36;nenhum;alugada;1;qualificado;1;0;0;0
+30;Critico-outros creditos;reforma;2831;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;2.0;33;nenhum;proria;1;qualificado;1;1;0;1
+6;existentes/pagos;reforma;753;"<100
+";1<=X<4;2;feminino div/dep/cas;sim;3.0;64;nenhum;proria;1;qualificado;1;0;0;1
+18;Atrasos anteriores;abrir negocio;2427;"Desconhecido
+";>=7;4;masculino solteiro;nao;2.0;42;nenhum;proria;2;qualificado;1;0;0;1
+24;Atrasos anteriores;veiculo novo;2538;"<100
+";>=7;4;masculino solteiro;nao;4.0;47;nenhum;proria;2;nao qualificado;2;0;0;0
+15;todos pagos;veiculo novo;1264;100<=X<500;1<=X<4;2;masculino cas/viu;nao;2.0;25;nenhum;alugada;1;qualificado;1;0;0;0
+30;Critico-outros creditos;moveis;8386;"<100
+";4<=X<7;2;masculino solteiro;nao;2.0;49;nenhum;proria;1;qualificado;1;0;0;0
+48;existentes/pagos;abrir negocio;4844;"<100
+";Desempregado;3;masculino solteiro;nao;2.0;33;banco;alugada;1;altamente qualificado/empresario;1;1;0;0
+21;existentes/pagos;veiculo novo;2923;100<=X<500;1<=X<4;1;feminino div/dep/cas;nao;1.0;28;banco;proria;1;altamente qualificado/empresario;1;1;0;1
+36;existentes/pagos;veiculo usado;8229;"<100
+";1<=X<4;2;masculino solteiro;nao;2.0;26;nenhum;proria;1;qualificado;2;0;0;0
+24;Critico-outros creditos;moveis;2028;"<100
+";4<=X<7;2;masculino solteiro;nao;2.0;30;nenhum;proria;2;nao qualificado;1;0;0;1
+15;Critico-outros creditos;moveis;1433;"<100
+";1<=X<4;4;feminino div/dep/cas;nao;3.0;25;nenhum;alugada;2;qualificado;1;0;0;1
+42;sem creditos/todos pagos;abrir negocio;6289;"<100
+";<1;2;maculino div/dep;nao;1.0;33;nenhum;proria;2;qualificado;1;0;0;1
+13;existentes/pagos;reforma;1409;100<=X<500;Desempregado;2;feminino div/dep/cas;nao;4.0;64;nenhum;proria;1;qualificado;1;0;0;1
+24;existentes/pagos;veiculo usado;6579;"<100
+";Desempregado;4;masculino solteiro;nao;2.0;29;nenhum;de graca;1;altamente qualificado/empresario;1;1;0;1
+24;Critico-outros creditos;reforma;1743;"<100
+";>=7;4;masculino solteiro;nao;2.0;48;nenhum;proria;2;nao qualificado;1;0;0;1
+12;Critico-outros creditos;educacao;3565;"Desconhecido
+";<1;2;masculino solteiro;nao;1.0;37;nenhum;proria;2;nao qualificado;2;0;0;1
+15;todos pagos;reforma;1569;100<=X<500;>=7;4;masculino solteiro;nao;4.0;34;banco;proria;1;nao qualificado;2;0;0;1
+18;existentes/pagos;reforma;1936;"Desconhecido
+";4<=X<7;2;masculino cas/viu;nao;4.0;23;nenhum;alugada;2;nao qualificado;1;0;0;1
+36;existentes/pagos;moveis;3959;"<100
+";Desempregado;4;masculino solteiro;nao;3.0;30;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;veiculo novo;2390;"Desconhecido
+";>=7;4;masculino solteiro;nao;3.0;50;nenhum;proria;1;qualificado;1;1;0;1
+12;existentes/pagos;moveis;1736;"<100
+";4<=X<7;3;feminino div/dep/cas;nao;4.0;31;nenhum;proria;1;nao qualificado;1;0;0;1
+30;existentes/pagos;veiculo usado;3857;"<100
+";1<=X<4;4;maculino div/dep;nao;4.0;40;nenhum;proria;1;altamente qualificado/empresario;1;1;0;1
+12;existentes/pagos;reforma;804;"<100
+";>=7;4;masculino solteiro;nao;4.0;38;nenhum;proria;1;qualificado;1;0;0;1
+45;existentes/pagos;reforma;1845;"<100
+";1<=X<4;4;masculino solteiro;nao;4.0;23;nenhum;de graca;1;qualificado;1;1;0;0
+45;Critico-outros creditos;veiculo usado;4576;100<=X<500;Desempregado;3;masculino solteiro;nao;4.0;27;nenhum;proria;1;qualificado;1;0;0;1
+15;existentes/pagos;veiculo novo;1403;"<100
+";1<=X<4;2;feminino div/dep/cas;nao;;28;nenhum;alugada;1;qualificado;1;0;0;1
+18;Atrasos anteriores;moveis;4297;"<100
+";>=7;4;maculino div/dep;nao;;40;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+36;existentes/pagos;educacao;1977;"Desconhecido
+";>=7;4;masculino solteiro;nao;;40;nenhum;proria;1;altamente qualificado/empresario;1;1;0;0
+9;Critico-outros creditos;educacao;1136;>=1000;>=7;4;masculino solteiro;nao;;32;nenhum;de graca;2;qualificado;2;0;0;0
+12;existentes/pagos;educacao;684;"<100
+";1<=X<4;4;masculino solteiro;nao;;40;nenhum;alugada;1;nao qualificado;2;0;0;0
